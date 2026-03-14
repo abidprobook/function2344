@@ -20,7 +20,10 @@ jobs:
           node-version: '20' # Recommended latest stable version
 
       - name: 3. Install dependencies
-        run: npm install puppeteer
+        run: |
+          npm install puppeteer
+          sudo apt-get update
+          sudo apt-get install -y libgbm-dev
       
       - name: Fetch JS Script 
         run: |
