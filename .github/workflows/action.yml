@@ -1,0 +1,46 @@
+name: Update StreamXPK M3U Files
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Code ko checkout karen
+        uses: actions/checkout@v4
+
+      - name: 2. Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Recommended latest stable version
+
+      - name: 3. Install dependencies
+        run: npm install puppeteer
+      
+      - name: Fetch JS Script 
+        run: |
+          curl -L -o streamxpk.js ${{ secrets.STREAMX_SCRIPT }}
+          node streamxpk.js
+
+      - name: Changes ko commit karen
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abidprobook/function2344.git
+
+      - name: Commit and push changes
+        run: |
+          git add streamxpk.m3u
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch streamxpk latest data"
+            git push origin main
+          fi
