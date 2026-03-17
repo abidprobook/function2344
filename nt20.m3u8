@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3185600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/hdntl=exp=1773860316~acl=%2f*~data=hdntl~hmac=e42b12206bf1d96271e2c1e5f557d960577175f97d0dbdb677d9b05120cd2cb1/level_0.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2195600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/hdntl=exp=1773860316~acl=%2f*~data=hdntl~hmac=e42b12206bf1d96271e2c1e5f557d960577175f97d0dbdb677d9b05120cd2cb1/level_1.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/hdntl=exp=1773860316~acl=%2f*~data=hdntl~hmac=e42b12206bf1d96271e2c1e5f557d960577175f97d0dbdb677d9b05120cd2cb1/level_2.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=798600,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/hdntl=exp=1773860316~acl=%2f*~data=hdntl~hmac=e42b12206bf1d96271e2c1e5f557d960577175f97d0dbdb677d9b05120cd2cb1/level_3.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=380600,RESOLUTION=480x270,CODECS="avc1.640015,mp4a.40.2"
+https://uefaleagsec.akamaized.net/hls/live/2110015/nation3/hdntl=exp=1773860316~acl=%2f*~data=hdntl~hmac=e42b12206bf1d96271e2c1e5f557d960577175f97d0dbdb677d9b05120cd2cb1/level_4.m3u8
