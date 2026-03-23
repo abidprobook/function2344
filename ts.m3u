@@ -1,603 +1,119 @@
 #EXTM3U
+#EXT-X-VERSION:3
 
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 8" tvg-logo="",Cartoon Network+ Hindi
-https://mysouq1.com:443/live/76631957/10205687/8.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 9" tvg-logo="",Comedy Dynamic
-https://mysouq1.com:443/live/76631957/10205687/9.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 10" tvg-logo="",OFF channel
-https://mysouq1.com:443/live/76631957/10205687/10.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 11" tvg-logo="",Sky Sports Golf 1920x50fps
-https://mysouq1.com:443/live/76631957/10205687/11.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 12" tvg-logo="",Sky Sports Cricket 1920x50fps
-https://mysouq1.com:443/live/76631957/10205687/12.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 13" tvg-logo="",Channel 13
-https://mysouq1.com:443/live/76631957/10205687/13.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 14" tvg-logo="",Channel 14
-https://mysouq1.com:443/live/76631957/10205687/14.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 15" tvg-logo="",ITV News
-https://mysouq1.com:443/live/76631957/10205687/15.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 17" tvg-logo="",Net Geo
-https://mysouq1.com:443/live/76631957/10205687/17.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 19" tvg-logo="",Sky Sports Football 1920x50fps
-https://mysouq1.com:443/live/76631957/10205687/19.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 23" tvg-logo="",Sky Sports News 1220x25fps
-https://mysouq1.com:443/live/76631957/10205687/23.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 24" tvg-logo="",Channel 24
-https://mysouq1.com:443/live/76631957/10205687/24.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 25" tvg-logo="",Channel 25
-https://mysouq1.com:443/live/76631957/10205687/25.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 26" tvg-logo="",BBC CBeebies
-https://mysouq1.com:443/live/76631957/10205687/26.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 29" tvg-logo="",MU TV
-https://mysouq1.com:443/live/76631957/10205687/29.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 30" tvg-logo="",Channel 30
-https://mysouq1.com:443/live/76631957/10205687/30.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 31" tvg-logo="",ITV 3
-https://mysouq1.com:443/live/76631957/10205687/31.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 32" tvg-logo="",ITV 4
-https://mysouq1.com:443/live/76631957/10205687/32.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 33" tvg-logo="",U & Gold
-https://mysouq1.com:443/live/76631957/10205687/33.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 34" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/34.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 35" tvg-logo="",Mtv
-https://mysouq1.com:443/live/76631957/10205687/35.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 36" tvg-logo="",TLC
-https://mysouq1.com:443/live/76631957/10205687/36.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 37" tvg-logo="",Nickelodeon
-https://mysouq1.com:443/live/76631957/10205687/37.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 38" tvg-logo="",Nickelodeon
-https://mysouq1.com:443/live/76631957/10205687/38.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 39" tvg-logo="",PTC Chak de
-https://mysouq1.com:443/live/76631957/10205687/39.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 40" tvg-logo="",PTC HINDI
-https://mysouq1.com:443/live/76631957/10205687/40.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 42" tvg-logo="",PTC Punjabi Gold
-https://mysouq1.com:443/live/76631957/10205687/42.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 43" tvg-logo="",Balle Balle
-https://mysouq1.com:443/live/76631957/10205687/43.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 44" tvg-logo="",Discovery
-https://mysouq1.com:443/live/76631957/10205687/44.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 45" tvg-logo="",Boomerang
-https://mysouq1.com:443/live/76631957/10205687/45.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 46" tvg-logo="",Z tv 
-https://mysouq1.com:443/live/76631957/10205687/46.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 47" tvg-logo="",USA 1920x50fps
-https://mysouq1.com:443/live/76631957/10205687/47.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 48" tvg-logo="",Channel 48
-https://mysouq1.com:443/live/76631957/10205687/48.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 49" tvg-logo="",Disney Jr.
-https://mysouq1.com:443/live/76631957/10205687/49.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 50" tvg-logo="",Channel 50
-https://mysouq1.com:443/live/76631957/10205687/50.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 51" tvg-logo="",Fox News 
-https://mysouq1.com:443/live/76631957/10205687/51.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 52" tvg-logo="",ESPN 1
-https://mysouq1.com:443/live/76631957/10205687/52.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 53" tvg-logo="",ESPN 2
-https://mysouq1.com:443/live/76631957/10205687/53.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 54" tvg-logo="",Channel 54
-https://mysouq1.com:443/live/76631957/10205687/54.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 55" tvg-logo="",FOX Sports 2
-https://mysouq1.com:443/live/76631957/10205687/55.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 56" tvg-logo="",Golf Channel
-https://mysouq1.com:443/live/76631957/10205687/56.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 57" tvg-logo="",Color HD
-https://mysouq1.com:443/live/76631957/10205687/57.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 58" tvg-logo="",Express News 
-https://mysouq1.com:443/live/76631957/10205687/58.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 83" tvg-logo="",Channel 83
-https://mysouq1.com:443/live/76631957/10205687/83.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 84" tvg-logo="",Channel 84
-https://mysouq1.com:443/live/76631957/10205687/84.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 85" tvg-logo="",Vision punjabi HD
-https://mysouq1.com:443/live/76631957/10205687/85.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 87" tvg-logo="",Channel 87
-https://mysouq1.com:443/live/76631957/10205687/87.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 88" tvg-logo="",MH One
-https://mysouq1.com:443/live/76631957/10205687/88.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 89" tvg-logo="",PTV Sports 1250x30fps
-https://mysouq1.com:443/live/76631957/10205687/89.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 90" tvg-logo="",365 News 
-https://mysouq1.com:443/live/76631957/10205687/90.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 92" tvg-logo="",Islam Channel Urdu
-https://mysouq1.com:443/live/76631957/10205687/92.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 94" tvg-logo="",AAn Channel Urdu
-https://mysouq1.com:443/live/76631957/10205687/94.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 95" tvg-logo="",Channel 95
-https://mysouq1.com:443/live/76631957/10205687/95.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 98" tvg-logo="",Ten Sports Pak
-https://mysouq1.com:443/live/76631957/10205687/98.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 99" tvg-logo="",Bol Entertainment
-https://mysouq1.com:443/live/76631957/10205687/99.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 100" tvg-logo="",Off Channel
-https://mysouq1.com:443/live/76631957/10205687/100.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 101" tvg-logo="",Geo Super 
-https://mysouq1.com:443/live/76631957/10205687/101.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 102" tvg-logo="",5 News 
-https://mysouq1.com:443/live/76631957/10205687/102.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 103" tvg-logo="",Hum News
-https://mysouq1.com:443/live/76631957/10205687/103.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 105" tvg-logo="",Aaj Entertainment
-https://mysouq1.com:443/live/76631957/10205687/105.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 107" tvg-logo="",Khyber
-https://mysouq1.com:443/live/76631957/10205687/107.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 108" tvg-logo="",Hum Pashto 1 
-https://mysouq1.com:443/live/76631957/10205687/108.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 109" tvg-logo="",PTV Global
-https://mysouq1.com:443/live/76631957/10205687/109.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 110" tvg-logo="",PTV Home
-https://mysouq1.com:443/live/76631957/10205687/110.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 111" tvg-logo="",PTV Global
-https://mysouq1.com:443/live/76631957/10205687/111.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 112" tvg-logo="",8XM
-https://mysouq1.com:443/live/76631957/10205687/112.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 113" tvg-logo="",Waseeb 
-https://mysouq1.com:443/live/76631957/10205687/113.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 114" tvg-logo="",Madni Channel
-https://mysouq1.com:443/live/76631957/10205687/114.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 115" tvg-logo="",Peace TV Urdu
-https://mysouq1.com:443/live/76631957/10205687/115.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 116" tvg-logo="",A tv Hd
-https://mysouq1.com:443/live/76631957/10205687/116.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 117" tvg-logo="",TV ONE
-https://mysouq1.com:443/live/76631957/10205687/117.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 118" tvg-logo="",EXPRESS TV
-https://mysouq1.com:443/live/76631957/10205687/118.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 119" tvg-logo="",Geo Entertainment
-https://mysouq1.com:443/live/76631957/10205687/119.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 120" tvg-logo="",Geo Kahani
-https://mysouq1.com:443/live/76631957/10205687/120.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 121" tvg-logo="",Hum Europe
-https://mysouq1.com:443/live/76631957/10205687/121.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 122" tvg-logo="",Hum Entertainment
-https://mysouq1.com:443/live/76631957/10205687/122.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 123" tvg-logo="",ARY Zindagi
-https://mysouq1.com:443/live/76631957/10205687/123.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 124" tvg-logo="",ARY Digital
-https://mysouq1.com:443/live/76631957/10205687/124.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 125" tvg-logo="",ARy Digital Europe
-https://mysouq1.com:443/live/76631957/10205687/125.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 126" tvg-logo="",A Plus
-https://mysouq1.com:443/live/76631957/10205687/126.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 127" tvg-logo="",ARY Qtv
-https://mysouq1.com:443/live/76631957/10205687/127.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 128" tvg-logo="",Geo Teez
-https://mysouq1.com:443/live/76631957/10205687/128.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 129" tvg-logo="",Geo News 
-https://mysouq1.com:443/live/76631957/10205687/129.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 130" tvg-logo="",Khyber News 
-https://mysouq1.com:443/live/76631957/10205687/130.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 131" tvg-logo="",PTV News 
-https://mysouq1.com:443/live/76631957/10205687/131.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 132" tvg-logo="",Capital Tv
-https://mysouq1.com:443/live/76631957/10205687/132.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 133" tvg-logo="",Dawn News
-https://mysouq1.com:443/live/76631957/10205687/133.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 134" tvg-logo="",Dunya News 
-https://mysouq1.com:443/live/76631957/10205687/134.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 135" tvg-logo="",Bol News 
-https://mysouq1.com:443/live/76631957/10205687/135.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 136" tvg-logo="",Aab Tak
-https://mysouq1.com:443/live/76631957/10205687/136.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 137" tvg-logo="",Aaj News 
-https://mysouq1.com:443/live/76631957/10205687/137.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 138" tvg-logo="",24 News 
-https://mysouq1.com:443/live/76631957/10205687/138.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 139" tvg-logo="",GNN News 
-https://mysouq1.com:443/live/76631957/10205687/139.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 140" tvg-logo="",Samaa News
-https://mysouq1.com:443/live/76631957/10205687/140.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 141" tvg-logo="",92 News 
-https://mysouq1.com:443/live/76631957/10205687/141.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 142" tvg-logo="",News One
-https://mysouq1.com:443/live/76631957/10205687/142.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 143" tvg-logo="",ARY News 
-https://mysouq1.com:443/live/76631957/10205687/143.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 144" tvg-logo="",Sony Entertainment
-https://mysouq1.com:443/live/76631957/10205687/144.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 145" tvg-logo="",Sony Sab
-https://mysouq1.com:443/live/76631957/10205687/145.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 146" tvg-logo="",Sony Ten 3 Hindi
-https://mysouq1.com:443/live/76631957/10205687/146.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 147" tvg-logo="",Sony Pix
-https://mysouq1.com:443/live/76631957/10205687/147.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 148" tvg-logo="",Star Sports 1 HD
-https://mysouq1.com:443/live/76631957/10205687/148.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 149" tvg-logo="",UFC
-https://mysouq1.com:443/live/76631957/10205687/149.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 151" tvg-logo="",Sony Max HD
-https://mysouq1.com:443/live/76631957/10205687/151.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 154" tvg-logo="",Sony Ten 1
-https://mysouq1.com:443/live/76631957/10205687/154.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 155" tvg-logo="",ESPN 1 
-https://mysouq1.com:443/live/76631957/10205687/155.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 156" tvg-logo="",Discovery HD
-https://mysouq1.com:443/live/76631957/10205687/156.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 157" tvg-logo="",Star udsav
-https://mysouq1.com:443/live/76631957/10205687/157.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 158" tvg-logo="",Sun TV HD
-https://mysouq1.com:443/live/76631957/10205687/158.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 159" tvg-logo="",Sun Music HD
-https://mysouq1.com:443/live/76631957/10205687/159.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 160" tvg-logo="",SUN K TV HD
-https://mysouq1.com:443/live/76631957/10205687/160.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 161" tvg-logo="",Zee Tv HD
-https://mysouq1.com:443/live/76631957/10205687/161.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 162" tvg-logo="",Color HD
-https://mysouq1.com:443/live/76631957/10205687/162.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 163" tvg-logo="",Super Color
-https://mysouq1.com:443/live/76631957/10205687/163.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 164" tvg-logo="",Sun Udaya HD
-https://mysouq1.com:443/live/76631957/10205687/164.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 165" tvg-logo="",AsiaNet News 
-https://mysouq1.com:443/live/76631957/10205687/165.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 166" tvg-logo="",AsiaNet HD
-https://mysouq1.com:443/live/76631957/10205687/166.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 167" tvg-logo="",Star Plus HD
-https://mysouq1.com:443/live/76631957/10205687/167.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 168" tvg-logo="",Star Udaya HD
-https://mysouq1.com:443/live/76631957/10205687/168.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 169" tvg-logo="",Kaumudy
-https://mysouq1.com:443/live/76631957/10205687/169.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 170" tvg-logo="",Tv News 5
-https://mysouq1.com:443/live/76631957/10205687/170.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 171" tvg-logo="",PTC Punjabi
-https://mysouq1.com:443/live/76631957/10205687/171.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 172" tvg-logo="",JaiHind
-https://mysouq1.com:443/live/76631957/10205687/172.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 174" tvg-logo="",Sony BBC Earth
-https://mysouq1.com:443/live/76631957/10205687/174.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 176" tvg-logo="",Sony Ten 5 HD
-https://mysouq1.com:443/live/76631957/10205687/176.ts
-#EXTINF:-1, group-title="TS Channel Movie" tvg-name="TS Channel 178" tvg-logo="",MN + HD
-https://mysouq1.com:443/live/76631957/10205687/178.ts
-#EXTINF:-1, group-title="Movie" tvg-name="TS Channel 179" tvg-logo="",Romedy Now
-https://mysouq1.com:443/live/76631957/10205687/179.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 180" tvg-logo="",History TV 18 HD
-https://mysouq1.com:443/live/76631957/10205687/180.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 181" tvg-logo="",Travel XP HD Hindi
-https://mysouq1.com:443/live/76631957/10205687/181.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 182" tvg-logo="",Animal Planet 
-https://mysouq1.com:443/live/76631957/10205687/182.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 183" tvg-logo="",Color HD Lang
-https://mysouq1.com:443/live/76631957/10205687/183.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 185" tvg-logo="",Channel 185
-https://mysouq1.com:443/live/76631957/10205687/185.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 187" tvg-logo="",Color Infinity HD
-https://mysouq1.com:443/live/76631957/10205687/187.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 188" tvg-logo="",JAYA TV
-https://mysouq1.com:443/live/76631957/10205687/188.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 189" tvg-logo="",Angle TV HD
-https://mysouq1.com:443/live/76631957/10205687/189.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 190" tvg-logo="",Sony BBC Earth 
-https://mysouq1.com:443/live/76631957/10205687/190.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 191" tvg-logo="",MNX HD
-https://mysouq1.com:443/live/76631957/10205687/191.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 192" tvg-logo="",Sony Ten 2 HD
-https://mysouq1.com:443/live/76631957/10205687/192.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 193" tvg-logo="",Sun Suriya HD
-https://mysouq1.com:443/live/76631957/10205687/193.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 194" tvg-logo="",Star Gold HD
-https://mysouq1.com:443/live/76631957/10205687/194.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 195" tvg-logo="",Colors HD
-https://mysouq1.com:443/live/76631957/10205687/195.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 196" tvg-logo="",Zee Cafe HD
-https://mysouq1.com:443/live/76631957/10205687/196.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 198" tvg-logo="",Star Udsav HD
-https://mysouq1.com:443/live/76631957/10205687/198.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 199" tvg-logo="",Star lang HD
-https://mysouq1.com:443/live/76631957/10205687/199.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 201" tvg-logo="",& Prive HD
-https://mysouq1.com:443/live/76631957/10205687/201.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 202" tvg-logo="",LMN 
-https://mysouq1.com:443/live/76631957/10205687/202.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 203" tvg-logo="",Cinema SD
-https://mysouq1.com:443/live/76631957/10205687/203.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 204" tvg-logo="",SONY YNY SD
-https://mysouq1.com:443/live/76631957/10205687/204.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 205" tvg-logo="",NICK SD
-https://mysouq1.com:443/live/76631957/10205687/205.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 206" tvg-logo="",NICK Jr. SD
-https://mysouq1.com:443/live/76631957/10205687/206.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 207" tvg-logo="",SONIC SD
-https://mysouq1.com:443/live/76631957/10205687/207.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 208" tvg-logo="",Disney KId SD
-https://mysouq1.com:443/live/76631957/10205687/208.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 210" tvg-logo="",Star Gold Select HD
-https://mysouq1.com:443/live/76631957/10205687/210.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 211" tvg-logo="",Star Sports 1 Hindi
-https://mysouq1.com:443/live/76631957/10205687/211.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 213" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/213.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 214" tvg-logo="",SUN Gemini HD
-https://mysouq1.com:443/live/76631957/10205687/214.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 215" tvg-logo="",Willow Sports HD 1920X60fps
-https://mysouq1.com:443/live/76631957/10205687/215.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 216" tvg-logo="",EuroSports Asia HD
-https://mysouq1.com:443/live/76631957/10205687/216.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 218" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/218.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 219" tvg-logo="",Colors HD
-https://mysouq1.com:443/live/76631957/10205687/219.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 220" tvg-logo="",Z Tv 
-https://mysouq1.com:443/live/76631957/10205687/220.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 221" tvg-logo="",Star Plus HD
-https://mysouq1.com:443/live/76631957/10205687/221.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 222" tvg-logo="",Sony BBC Earth HD
-https://mysouq1.com:443/live/76631957/10205687/222.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 223" tvg-logo="",Sony BBC Earth HD
-https://mysouq1.com:443/live/76631957/10205687/223.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 224" tvg-logo="",Sony TV HD
-https://mysouq1.com:443/live/76631957/10205687/224.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 225" tvg-logo="",ZEE lang
-https://mysouq1.com:443/live/76631957/10205687/225.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 227" tvg-logo="",Pitara
-https://mysouq1.com:443/live/76631957/10205687/227.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 228" tvg-logo="",V6 News SD
-https://mysouq1.com:443/live/76631957/10205687/228.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 230" tvg-logo="",Z Cinema HD
-https://mysouq1.com:443/live/76631957/10205687/230.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 231" tvg-logo="",& Pictures HD
-https://mysouq1.com:443/live/76631957/10205687/231.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 232" tvg-logo="",& TV HD
-https://mysouq1.com:443/live/76631957/10205687/232.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 233" tvg-logo="",Lang TV SD
-https://mysouq1.com:443/live/76631957/10205687/233.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 234" tvg-logo="",ABN SD
-https://mysouq1.com:443/live/76631957/10205687/234.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 235" tvg-logo="",NTV SD
-https://mysouq1.com:443/live/76631957/10205687/235.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 236" tvg-logo="",AsiaNet Lang SD
-https://mysouq1.com:443/live/76631957/10205687/236.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 237" tvg-logo="",Polimer News SD
-https://mysouq1.com:443/live/76631957/10205687/237.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 238" tvg-logo="",Star Sports Select 1 HD
-https://mysouq1.com:443/live/76631957/10205687/238.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 239" tvg-logo="",Star Sports 2 HD
-https://mysouq1.com:443/live/76631957/10205687/239.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 240" tvg-logo="",JAYA MAX SD
-https://mysouq1.com:443/live/76631957/10205687/240.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 241" tvg-logo="",Colors Lang 
-https://mysouq1.com:443/live/76631957/10205687/241.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 242" tvg-logo="",& Tv PLUS SD
-https://mysouq1.com:443/live/76631957/10205687/242.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 243" tvg-logo="",RAj Musik Telugu SD
-https://mysouq1.com:443/live/76631957/10205687/243.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 244" tvg-logo="",Vissa SD
-https://mysouq1.com:443/live/76631957/10205687/244.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 245" tvg-logo="",RAJ Musik MALAyalam SD
-https://mysouq1.com:443/live/76631957/10205687/245.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 247" tvg-logo="",NDTV NEWS SD
-https://mysouq1.com:443/live/76631957/10205687/247.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 250" tvg-logo="",FOOD FOOD SD
-https://mysouq1.com:443/live/76631957/10205687/250.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 251" tvg-logo="",Sony Sab SD
-https://mysouq1.com:443/live/76631957/10205687/251.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 252" tvg-logo="",POWERVISION SD
-https://mysouq1.com:443/live/76631957/10205687/252.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 253" tvg-logo="",&FLIX HD
-https://mysouq1.com:443/live/76631957/10205687/253.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 255" tvg-logo="",Daily Star SD
-https://mysouq1.com:443/live/76631957/10205687/255.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 256" tvg-logo="",BBC SCOTLAND
-https://mysouq1.com:443/live/76631957/10205687/256.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 258" tvg-logo="",Channel 4 HD
-https://mysouq1.com:443/live/76631957/10205687/258.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 259" tvg-logo="",MilkShake HD
-https://mysouq1.com:443/live/76631957/10205687/259.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 260" tvg-logo="",Channel 260
-https://mysouq1.com:443/live/76631957/10205687/260.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 263" tvg-logo="",GoodMorning Britain HD
-https://mysouq1.com:443/live/76631957/10205687/263.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 268" tvg-logo="",U & Yesterday
-https://mysouq1.com:443/live/76631957/10205687/268.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 269" tvg-logo="",Nickelodeon SD
-https://mysouq1.com:443/live/76631957/10205687/269.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 273" tvg-logo="",Channel 273
-https://mysouq1.com:443/live/76631957/10205687/273.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 274" tvg-logo="",Channel 274
-https://mysouq1.com:443/live/76631957/10205687/274.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 275" tvg-logo="",Channel 275
-https://mysouq1.com:443/live/76631957/10205687/275.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 276" tvg-logo="",Channel 276
-https://mysouq1.com:443/live/76631957/10205687/276.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 277" tvg-logo="",Channel 277
-https://mysouq1.com:443/live/76631957/10205687/277.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 278" tvg-logo="",Channel 278
-https://mysouq1.com:443/live/76631957/10205687/278.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 279" tvg-logo="",Channel 279
-https://mysouq1.com:443/live/76631957/10205687/279.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 280" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/280.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 283" tvg-logo="",TNT Sports 3
-https://mysouq1.com:443/live/76631957/10205687/283.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 284" tvg-logo="",Channel 284
-https://mysouq1.com:443/live/76631957/10205687/284.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 285" tvg-logo="",TNT Sports 2
-https://mysouq1.com:443/live/76631957/10205687/285.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 286" tvg-logo="",TNT Sports 1
-https://mysouq1.com:443/live/76631957/10205687/286.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 314" tvg-logo="",Sport.tv 1
-https://mysouq1.com:443/live/76631957/10205687/314.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 315" tvg-logo="",Sport.tv 2
-https://mysouq1.com:443/live/76631957/10205687/315.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 316" tvg-logo="",Sport.tv 3
-https://mysouq1.com:443/live/76631957/10205687/316.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 318" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/318.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 324" tvg-logo="",EuroSports 1
-https://mysouq1.com:443/live/76631957/10205687/324.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 325" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/325.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 327" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/327.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 329" tvg-logo="",DAZN 3
-https://mysouq1.com:443/live/76631957/10205687/329.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 346" tvg-logo="",UTSAV Plus HD
-https://mysouq1.com:443/live/76631957/10205687/346.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 348" tvg-logo="",UTSAV Plus HD
-https://mysouq1.com:443/live/76631957/10205687/348.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 351" tvg-logo="",OFF channel
-https://mysouq1.com:443/live/76631957/10205687/351.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 352" tvg-logo="",Ads
-https://mysouq1.com:443/live/76631957/10205687/352.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 390" tvg-logo="",boishakhi tv Bangla
-https://mysouq1.com:443/live/76631957/10205687/390.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 391" tvg-logo="",Channel 24 bangla
-https://mysouq1.com:443/live/76631957/10205687/391.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 392" tvg-logo="",Channel EYE Bangla
-https://mysouq1.com:443/live/76631957/10205687/392.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 393" tvg-logo="",OFF Channel
-https://mysouq1.com:443/live/76631957/10205687/393.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 394" tvg-logo="",DESH TV
-https://mysouq1.com:443/live/76631957/10205687/394.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 396" tvg-logo="",Lang TV
-https://mysouq1.com:443/live/76631957/10205687/396.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 397" tvg-logo="",Mohona TV
-https://mysouq1.com:443/live/76631957/10205687/397.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 398" tvg-logo="",Mytv HD
-https://mysouq1.com:443/live/76631957/10205687/398.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 399" tvg-logo="",Lang Tv SD
-https://mysouq1.com:443/live/76631957/10205687/399.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 401" tvg-logo="",Rtv SD
-https://mysouq1.com:443/live/76631957/10205687/401.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 402" tvg-logo="",NewsTime Bangla
-https://mysouq1.com:443/live/76631957/10205687/402.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 403" tvg-logo="",RPLus GOld
-https://mysouq1.com:443/live/76631957/10205687/403.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 404" tvg-logo="",DHM Music SD 
-https://mysouq1.com:443/live/76631957/10205687/404.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 405" tvg-logo="",S Lang SD
-https://mysouq1.com:443/live/76631957/10205687/405.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 406" tvg-logo="",Discovery Bangla
-https://mysouq1.com:443/live/76631957/10205687/406.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 408" tvg-logo="",Lang Bangla TV
-https://mysouq1.com:443/live/76631957/10205687/408.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 409" tvg-logo="",Lang Bangla TV
-https://mysouq1.com:443/live/76631957/10205687/409.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 411" tvg-logo="",Nexus Tv HD
-https://mysouq1.com:443/live/76631957/10205687/411.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 413" tvg-logo="",Lang Bangla TV
-https://mysouq1.com:443/live/76631957/10205687/413.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 414" tvg-logo="",DESHI TV SD
-https://mysouq1.com:443/live/76631957/10205687/414.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 420" tvg-logo="",DBC News HD
-https://mysouq1.com:443/live/76631957/10205687/420.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 421" tvg-logo="",JAMUNA TV
-https://mysouq1.com:443/live/76631957/10205687/421.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 422" tvg-logo="",Lang Bangla TV
-https://mysouq1.com:443/live/76631957/10205687/422.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 423" tvg-logo="",Lang Bangla TV
-https://mysouq1.com:443/live/76631957/10205687/423.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 424" tvg-logo="",NTV Bangla
-https://mysouq1.com:443/live/76631957/10205687/424.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 425" tvg-logo="",Star Movie Bangla HD
-https://mysouq1.com:443/live/76631957/10205687/425.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 426" tvg-logo="",Bangla Vision SD
-https://mysouq1.com:443/live/76631957/10205687/426.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 427" tvg-logo="",ATN News Bangla
-https://mysouq1.com:443/live/76631957/10205687/427.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 428" tvg-logo="",ekattor tv 
-https://mysouq1.com:443/live/76631957/10205687/428.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 429" tvg-logo="",boishakhi Tv HD
-https://mysouq1.com:443/live/76631957/10205687/429.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 430" tvg-logo="",asian bangla
-https://mysouq1.com:443/live/76631957/10205687/430.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 431" tvg-logo="",ATN Bangla HD
-https://mysouq1.com:443/live/76631957/10205687/431.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 433" tvg-logo="",Cartoon Bangla
-https://mysouq1.com:443/live/76631957/10205687/433.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 434" tvg-logo="",Channel 9
-https://mysouq1.com:443/live/76631957/10205687/434.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 435" tvg-logo="",Z Lang TV
-https://mysouq1.com:443/live/76631957/10205687/435.ts
-
-
-
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 503" tvg-logo="",Channel 503
-https://mysouq1.com:443/live/76631957/10205687/503.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 505" tvg-logo="",Channel 505
-https://mysouq1.com:443/live/76631957/10205687/505.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 509" tvg-logo="",Channel 509
-https://mysouq1.com:443/live/76631957/10205687/509.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 515" tvg-logo="",Channel 515
-https://mysouq1.com:443/live/76631957/10205687/515.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 516" tvg-logo="",Channel 516
-https://mysouq1.com:443/live/76631957/10205687/516.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 517" tvg-logo="",Channel 517
-https://mysouq1.com:443/live/76631957/10205687/517.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 518" tvg-logo="",Channel 518
-https://mysouq1.com:443/live/76631957/10205687/518.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 519" tvg-logo="",Channel 519
-https://mysouq1.com:443/live/76631957/10205687/519.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 520" tvg-logo="",Channel 520
-https://mysouq1.com:443/live/76631957/10205687/520.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 521" tvg-logo="",Channel 521
-https://mysouq1.com:443/live/76631957/10205687/521.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 522" tvg-logo="",Channel 522
-https://mysouq1.com:443/live/76631957/10205687/522.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 523" tvg-logo="",Channel 523
-https://mysouq1.com:443/live/76631957/10205687/523.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 524" tvg-logo="",Channel 524
-https://mysouq1.com:443/live/76631957/10205687/524.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 525" tvg-logo="",Channel 525
-https://mysouq1.com:443/live/76631957/10205687/525.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 526" tvg-logo="",Channel 526
-https://mysouq1.com:443/live/76631957/10205687/526.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 527" tvg-logo="",Channel 527
-https://mysouq1.com:443/live/76631957/10205687/527.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 528" tvg-logo="",Channel 528
-https://mysouq1.com:443/live/76631957/10205687/528.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 529" tvg-logo="",Channel 529
-https://mysouq1.com:443/live/76631957/10205687/529.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 530" tvg-logo="",Channel 530
-https://mysouq1.com:443/live/76631957/10205687/530.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 531" tvg-logo="",Channel 531
-https://mysouq1.com:443/live/76631957/10205687/531.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 532" tvg-logo="",Channel 532
-https://mysouq1.com:443/live/76631957/10205687/532.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 536" tvg-logo="",Channel 536
-https://mysouq1.com:443/live/76631957/10205687/536.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 537" tvg-logo="",Channel 537
-https://mysouq1.com:443/live/76631957/10205687/537.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 538" tvg-logo="",Channel 538
-https://mysouq1.com:443/live/76631957/10205687/538.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 539" tvg-logo="",Channel 539
-https://mysouq1.com:443/live/76631957/10205687/539.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 540" tvg-logo="",Channel 540
-https://mysouq1.com:443/live/76631957/10205687/540.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 541" tvg-logo="",Channel 541
-https://mysouq1.com:443/live/76631957/10205687/541.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 542" tvg-logo="",Channel 542
-https://mysouq1.com:443/live/76631957/10205687/542.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 544" tvg-logo="",Channel 544
-https://mysouq1.com:443/live/76631957/10205687/544.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 546" tvg-logo="",Channel 546
-https://mysouq1.com:443/live/76631957/10205687/546.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 547" tvg-logo="",Channel 547
-https://mysouq1.com:443/live/76631957/10205687/547.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 548" tvg-logo="",Channel 548
-https://mysouq1.com:443/live/76631957/10205687/548.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 550" tvg-logo="",Channel 550
-https://mysouq1.com:443/live/76631957/10205687/550.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 552" tvg-logo="",Channel 552
-https://mysouq1.com:443/live/76631957/10205687/552.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 554" tvg-logo="",Channel 554
-https://mysouq1.com:443/live/76631957/10205687/554.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 555" tvg-logo="",Channel 555
-https://mysouq1.com:443/live/76631957/10205687/555.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 557" tvg-logo="",Channel 557
-https://mysouq1.com:443/live/76631957/10205687/557.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 560" tvg-logo="",Channel 560
-https://mysouq1.com:443/live/76631957/10205687/560.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 561" tvg-logo="",Channel 561
-https://mysouq1.com:443/live/76631957/10205687/561.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 564" tvg-logo="",Channel 564
-https://mysouq1.com:443/live/76631957/10205687/564.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 681" tvg-logo="",Channel 681
-https://mysouq1.com:443/live/76631957/10205687/681.ts
-#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 684" tvg-logo="",Channel 684
-https://mysouq1.com:443/live/76631957/10205687/684.ts
-
-
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 709" tvg-logo="",Channel 709
+https://mysouq1.com:443/live/76631957/10205687/709.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 710" tvg-logo="",Channel 710
+https://mysouq1.com:443/live/76631957/10205687/710.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 711" tvg-logo="",Channel 711
+https://mysouq1.com:443/live/76631957/10205687/711.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 712" tvg-logo="",Channel 712
+https://mysouq1.com:443/live/76631957/10205687/712.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 767" tvg-logo="",Channel 767
+https://mysouq1.com:443/live/76631957/10205687/767.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 768" tvg-logo="",Channel 768
+https://mysouq1.com:443/live/76631957/10205687/768.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 769" tvg-logo="",Channel 769
+https://mysouq1.com:443/live/76631957/10205687/769.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 770" tvg-logo="",Channel 770
+https://mysouq1.com:443/live/76631957/10205687/770.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 771" tvg-logo="",Channel 771
+https://mysouq1.com:443/live/76631957/10205687/771.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 772" tvg-logo="",Channel 772
+https://mysouq1.com:443/live/76631957/10205687/772.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 773" tvg-logo="",Channel 773
+https://mysouq1.com:443/live/76631957/10205687/773.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 774" tvg-logo="",Channel 774
+https://mysouq1.com:443/live/76631957/10205687/774.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 775" tvg-logo="",Channel 775
+https://mysouq1.com:443/live/76631957/10205687/775.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 776" tvg-logo="",Channel 776
+https://mysouq1.com:443/live/76631957/10205687/776.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 777" tvg-logo="",Channel 777
+https://mysouq1.com:443/live/76631957/10205687/777.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 778" tvg-logo="",Channel 778
+https://mysouq1.com:443/live/76631957/10205687/778.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 779" tvg-logo="",Channel 779
+https://mysouq1.com:443/live/76631957/10205687/779.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 780" tvg-logo="",Channel 780
+https://mysouq1.com:443/live/76631957/10205687/780.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 781" tvg-logo="",Channel 781
+https://mysouq1.com:443/live/76631957/10205687/781.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 784" tvg-logo="",Channel 784
+https://mysouq1.com:443/live/76631957/10205687/784.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 785" tvg-logo="",Channel 785
+https://mysouq1.com:443/live/76631957/10205687/785.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 786" tvg-logo="",Channel 786
+https://mysouq1.com:443/live/76631957/10205687/786.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 787" tvg-logo="",Channel 787
+https://mysouq1.com:443/live/76631957/10205687/787.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 788" tvg-logo="",Channel 788
+https://mysouq1.com:443/live/76631957/10205687/788.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 789" tvg-logo="",Channel 789
+https://mysouq1.com:443/live/76631957/10205687/789.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 790" tvg-logo="",Channel 790
+https://mysouq1.com:443/live/76631957/10205687/790.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 847" tvg-logo="",Channel 847
+https://mysouq1.com:443/live/76631957/10205687/847.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 859" tvg-logo="",Channel 859
+https://mysouq1.com:443/live/76631957/10205687/859.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 860" tvg-logo="",Channel 860
+https://mysouq1.com:443/live/76631957/10205687/860.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 861" tvg-logo="",Channel 861
+https://mysouq1.com:443/live/76631957/10205687/861.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 865" tvg-logo="",Channel 865
+https://mysouq1.com:443/live/76631957/10205687/865.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 866" tvg-logo="",Channel 866
+https://mysouq1.com:443/live/76631957/10205687/866.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 867" tvg-logo="",Channel 867
+https://mysouq1.com:443/live/76631957/10205687/867.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 868" tvg-logo="",Channel 868
+https://mysouq1.com:443/live/76631957/10205687/868.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 869" tvg-logo="",Channel 869
+https://mysouq1.com:443/live/76631957/10205687/869.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 871" tvg-logo="",Channel 871
+https://mysouq1.com:443/live/76631957/10205687/871.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 902" tvg-logo="",Channel 902
+https://mysouq1.com:443/live/76631957/10205687/902.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 950" tvg-logo="",Channel 950
+https://mysouq1.com:443/live/76631957/10205687/950.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 951" tvg-logo="",Channel 951
+https://mysouq1.com:443/live/76631957/10205687/951.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 966" tvg-logo="",Channel 966
+https://mysouq1.com:443/live/76631957/10205687/966.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 967" tvg-logo="",Channel 967
+https://mysouq1.com:443/live/76631957/10205687/967.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 968" tvg-logo="",Channel 968
+https://mysouq1.com:443/live/76631957/10205687/968.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 969" tvg-logo="",Channel 969
+https://mysouq1.com:443/live/76631957/10205687/969.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 970" tvg-logo="",Channel 970
+https://mysouq1.com:443/live/76631957/10205687/970.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 972" tvg-logo="",Channel 972
+https://mysouq1.com:443/live/76631957/10205687/972.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 973" tvg-logo="",Channel 973
+https://mysouq1.com:443/live/76631957/10205687/973.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 979" tvg-logo="",Channel 979
+https://mysouq1.com:443/live/76631957/10205687/979.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 982" tvg-logo="",Channel 982
+https://mysouq1.com:443/live/76631957/10205687/982.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 988" tvg-logo="",Channel 988
+https://mysouq1.com:443/live/76631957/10205687/988.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 989" tvg-logo="",Channel 989
+https://mysouq1.com:443/live/76631957/10205687/989.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 992" tvg-logo="",Channel 992
+https://mysouq1.com:443/live/76631957/10205687/992.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 993" tvg-logo="",Channel 993
+https://mysouq1.com:443/live/76631957/10205687/993.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 994" tvg-logo="",Channel 994
+https://mysouq1.com:443/live/76631957/10205687/994.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 995" tvg-logo="",Channel 995
+https://mysouq1.com:443/live/76631957/10205687/995.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 996" tvg-logo="",Channel 996
+https://mysouq1.com:443/live/76631957/10205687/996.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 998" tvg-logo="",Channel 998
+https://mysouq1.com:443/live/76631957/10205687/998.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 999" tvg-logo="",Channel 999
+https://mysouq1.com:443/live/76631957/10205687/999.ts
+#EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 1000" tvg-logo="",Channel 1000
+https://mysouq1.com:443/live/76631957/10205687/1000.ts
