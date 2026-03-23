@@ -1,129 +1,96 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ottera-1011" tvg-logo="http://" group-title="ottera", Channel 1011
+#EXTINF:-1 tvg-id="ottera-1011" tvg-logo="http://" group-title="ottera", Law & Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1011
 
-#EXTINF:-1 tvg-id="ottera-1016" tvg-logo="http://" group-title="ottera", Channel 1016
+#EXTINF:-1 tvg-id="ottera-1016" tvg-logo="http://" group-title="ottera", Law & Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1016
 
-#EXTINF:-1 tvg-id="ottera-1023" tvg-logo="http://" group-title="ottera", Channel 1023
+#EXTINF:-1 tvg-id="ottera-1023" tvg-logo="http://" group-title="ottera", BUZZR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1023
 
-#EXTINF:-1 tvg-id="ottera-1027" tvg-logo="http://" group-title="ottera", Channel 1027
+#EXTINF:-1 tvg-id="ottera-1027" tvg-logo="http://" group-title="ottera", TH
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1027
 
-#EXTINF:-1 tvg-id="ottera-1028" tvg-logo="http://" group-title="ottera", Channel 1028
+#EXTINF:-1 tvg-id="ottera-1028" tvg-logo="http://" group-title="ottera", RNTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1028
 
-#EXTINF:-1 tvg-id="ottera-1035" tvg-logo="http://" group-title="ottera", Channel 1035
+#EXTINF:-1 tvg-id="ottera-1035" tvg-logo="http://" group-title="ottera", AbdullahSmash Game
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1035
 
-#EXTINF:-1 tvg-id="ottera-1119" tvg-logo="http://" group-title="ottera", Channel 1119
+#EXTINF:-1 tvg-id="ottera-1119" tvg-logo="http://" group-title="ottera", Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
 
-#EXTINF:-1 tvg-id="ottera-1120" tvg-logo="http://" group-title="ottera", Channel 1120
+#EXTINF:-1 tvg-id="ottera-1120" tvg-logo="http://" group-title="ottera", BIZTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1120
 
-#EXTINF:-1 tvg-id="ottera-1132" tvg-logo="http://" group-title="ottera", Channel 1132
+#EXTINF:-1 tvg-id="ottera-1132" tvg-logo="http://" group-title="ottera", So Yummy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1132
 
-#EXTINF:-1 tvg-id="ottera-1149" tvg-logo="http://" group-title="ottera", Channel 1149
+#EXTINF:-1 tvg-id="ottera-1149" tvg-logo="http://" group-title="ottera", So Yummy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149
 
-#EXTINF:-1 tvg-id="ottera-1161" tvg-logo="http://" group-title="ottera", Channel 1161
+#EXTINF:-1 tvg-id="ottera-1161" tvg-logo="http://" group-title="ottera", Swimm
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1161
 
-#EXTINF:-1 tvg-id="ottera-1164" tvg-logo="http://" group-title="ottera", Channel 1164
+#EXTINF:-1 tvg-id="ottera-1164" tvg-logo="http://" group-title="ottera", Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1164
 
-#EXTINF:-1 tvg-id="ottera-1165" tvg-logo="http://" group-title="ottera", Channel 1165
+#EXTINF:-1 tvg-id="ottera-1165" tvg-logo="http://" group-title="ottera", Pursuit Up
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
 
-#EXTINF:-1 tvg-id="ottera-1236" tvg-logo="http://" group-title="ottera", Channel 1236
+#EXTINF:-1 tvg-id="ottera-1236" tvg-logo="http://" group-title="ottera", X Extrema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1236
 
-#EXTINF:-1 tvg-id="ottera-1237" tvg-logo="http://" group-title="ottera", Channel 1237
+#EXTINF:-1 tvg-id="ottera-1237" tvg-logo="http://" group-title="ottera", Latina
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1237
 
-#EXTINF:-1 tvg-id="ottera-1253" tvg-logo="http://" group-title="ottera", Channel 1253
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1253
-
-#EXTINF:-1 tvg-id="ottera-1254" tvg-logo="http://" group-title="ottera", Channel 1254
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1254
-
-#EXTINF:-1 tvg-id="ottera-1255" tvg-logo="http://" group-title="ottera", Channel 1255
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1255
-
-#EXTINF:-1 tvg-id="ottera-1257" tvg-logo="http://" group-title="ottera", Channel 1257
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1257
-
-#EXTINF:-1 tvg-id="ottera-1259" tvg-logo="http://" group-title="ottera", Channel 1259
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1259
-
-#EXTINF:-1 tvg-id="ottera-1262" tvg-logo="http://" group-title="ottera", Channel 1262
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1262
-
-#EXTINF:-1 tvg-id="ottera-1263" tvg-logo="http://" group-title="ottera", Channel 1263
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1263
-
-#EXTINF:-1 tvg-id="ottera-1264" tvg-logo="http://" group-title="ottera", Channel 1264
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1264
-
-#EXTINF:-1 tvg-id="ottera-1265" tvg-logo="http://" group-title="ottera", Channel 1265
+#EXTINF:-1 tvg-id="ottera-1265" tvg-logo="http://" group-title="ottera", DW NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1265
-
-#EXTINF:-1 tvg-id="ottera-1268" tvg-logo="http://" group-title="ottera", Channel 1268
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1268
-
-#EXTINF:-1 tvg-id="ottera-1273" tvg-logo="http://" group-title="ottera", Channel 1273
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1273
-
-#EXTINF:-1 tvg-id="ottera-1274" tvg-logo="http://" group-title="ottera", Channel 1274
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
 
 #EXTINF:-1 tvg-id="ottera-1275" tvg-logo="http://" group-title="ottera", Channel 1275
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
 
-#EXTINF:-1 tvg-id="ottera-1276" tvg-logo="http://" group-title="ottera", Channel 1276
+#EXTINF:-1 tvg-id="ottera-1276" tvg-logo="http://" group-title="ottera", DW TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1276
 
-#EXTINF:-1 tvg-id="ottera-1282" tvg-logo="http://" group-title="ottera", Channel 1282
+#EXTINF:-1 tvg-id="ottera-1282" tvg-logo="http://" group-title="ottera", AbdullahSmash
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1282
 
-#EXTINF:-1 tvg-id="ottera-1295" tvg-logo="http://" group-title="ottera", Channel 1295
+#EXTINF:-1 tvg-id="ottera-1295" tvg-logo="http://" group-title="ottera", Cartoons
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1295
 
-#EXTINF:-1 tvg-id="ottera-1296" tvg-logo="http://" group-title="ottera", Channel 1296
+#EXTINF:-1 tvg-id="ottera-1296" tvg-logo="http://" group-title="ottera", cartoons
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
 
-#EXTINF:-1 tvg-id="ottera-1297" tvg-logo="http://" group-title="ottera", Channel 1297
+#EXTINF:-1 tvg-id="ottera-1297" tvg-logo="http://" group-title="ottera", ads
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1297
 
-#EXTINF:-1 tvg-id="ottera-1312" tvg-logo="http://" group-title="ottera", Channel 1312
+#EXTINF:-1 tvg-id="ottera-1312" tvg-logo="http://" group-title="ottera", Cartoons
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1312
 
-#EXTINF:-1 tvg-id="ottera-1313" tvg-logo="http://" group-title="ottera", Channel 1313
+#EXTINF:-1 tvg-id="ottera-1313" tvg-logo="http://" group-title="ottera", FOX SPORTS Peak
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1313
 
-#EXTINF:-1 tvg-id="ottera-1314" tvg-logo="http://" group-title="ottera", Channel 1314
+#EXTINF:-1 tvg-id="ottera-1314" tvg-logo="http://" group-title="ottera", Documentry
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1314
 
-#EXTINF:-1 tvg-id="ottera-1316" tvg-logo="http://" group-title="ottera", Channel 1316
+#EXTINF:-1 tvg-id="ottera-1316" tvg-logo="http://" group-title="ottera", Cartoons
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1316
 
-#EXTINF:-1 tvg-id="ottera-1319" tvg-logo="http://" group-title="ottera", Channel 1319
+#EXTINF:-1 tvg-id="ottera-1319" tvg-logo="http://" group-title="ottera", Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1319
 
-#EXTINF:-1 tvg-id="ottera-1320" tvg-logo="http://" group-title="ottera", Channel 1320
+#EXTINF:-1 tvg-id="ottera-1320" tvg-logo="http://" group-title="ottera", ads
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
 
-#EXTINF:-1 tvg-id="ottera-1321" tvg-logo="http://" group-title="ottera", Channel 1321
+#EXTINF:-1 tvg-id="ottera-1321" tvg-logo="http://" group-title="ottera", FTGL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1321
 
-#EXTINF:-1 tvg-id="ottera-1322" tvg-logo="http://" group-title="ottera", Channel 1322
+#EXTINF:-1 tvg-id="ottera-1322" tvg-logo="http://" group-title="ottera", Documentry
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1322
 
-#EXTINF:-1 tvg-id="ottera-1324" tvg-logo="http://" group-title="ottera", Channel 1324
+#EXTINF:-1 tvg-id="ottera-1324" tvg-logo="http://" group-title="ottera", Magic Makers
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1324
 
 #EXTINF:-1 tvg-id="ottera-1331" tvg-logo="http://" group-title="ottera", Channel 1331
@@ -135,19 +102,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
 #EXTINF:-1 tvg-id="ottera-1353" tvg-logo="http://" group-title="ottera", Channel 1353
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1353
 
-#EXTINF:-1 tvg-id="ottera-1356" tvg-logo="http://" group-title="ottera", Channel 1356
+#EXTINF:-1 tvg-id="ottera-1356" tvg-logo="http://" group-title="ottera", Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
 
-#EXTINF:-1 tvg-id="ottera-1357" tvg-logo="http://" group-title="ottera", Channel 1357
+#EXTINF:-1 tvg-id="ottera-1357" tvg-logo="http://" group-title="ottera", game
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1357
 
-#EXTINF:-1 tvg-id="ottera-1361" tvg-logo="http://" group-title="ottera", Channel 1361
+#EXTINF:-1 tvg-id="ottera-1361" tvg-logo="http://" group-title="ottera", The First
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1361
 
-#EXTINF:-1 tvg-id="ottera-1378" tvg-logo="http://" group-title="ottera", Channel 1378
+#EXTINF:-1 tvg-id="ottera-1378" tvg-logo="http://" group-title="ottera", Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1378
 
-#EXTINF:-1 tvg-id="ottera-1385" tvg-logo="http://" group-title="ottera", Channel 1385
+#EXTINF:-1 tvg-id="ottera-1385" tvg-logo="http://" group-title="ottera", Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385
 
 #EXTINF:-1 tvg-id="ottera-1387" tvg-logo="http://" group-title="ottera", Channel 1387
@@ -168,85 +135,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1398
 #EXTINF:-1 tvg-id="ottera-1400" tvg-logo="http://" group-title="ottera", Channel 1400
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1400
 
-#EXTINF:-1 tvg-id="ottera-1426" tvg-logo="http://" group-title="ottera", Channel 1426
+#EXTINF:-1 tvg-id="ottera-1426" tvg-logo="http://" group-title="ottera", 8tv ru
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1426
 
-#EXTINF:-1 tvg-id="ottera-1453" tvg-logo="http://" group-title="ottera", Channel 1453
+#EXTINF:-1 tvg-id="ottera-1453" tvg-logo="http://" group-title="ottera", Miami TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
 
-#EXTINF:-1 tvg-id="ottera-1457" tvg-logo="http://" group-title="ottera", Channel 1457
+#EXTINF:-1 tvg-id="ottera-1457" tvg-logo="http://" group-title="ottera", Miami TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 
-#EXTINF:-1 tvg-id="ottera-1475" tvg-logo="http://" group-title="ottera", Channel 1475
+#EXTINF:-1 tvg-id="ottera-1475" tvg-logo="http://" group-title="ottera", CNC TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1475
 
-#EXTINF:-1 tvg-id="ottera-1500" tvg-logo="http://" group-title="ottera", Channel 1500
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1500
-
-#EXTINF:-1 tvg-id="ottera-1501" tvg-logo="http://" group-title="ottera", Channel 1501
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1501
-
-#EXTINF:-1 tvg-id="ottera-1502" tvg-logo="http://" group-title="ottera", Channel 1502
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1502
-
-#EXTINF:-1 tvg-id="ottera-1503" tvg-logo="http://" group-title="ottera", Channel 1503
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1503
-
-#EXTINF:-1 tvg-id="ottera-1504" tvg-logo="http://" group-title="ottera", Channel 1504
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
-
-#EXTINF:-1 tvg-id="ottera-1505" tvg-logo="http://" group-title="ottera", Channel 1505
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1505
-
-#EXTINF:-1 tvg-id="ottera-1507" tvg-logo="http://" group-title="ottera", Channel 1507
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1507
-
-#EXTINF:-1 tvg-id="ottera-1508" tvg-logo="http://" group-title="ottera", Channel 1508
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1508
-
-#EXTINF:-1 tvg-id="ottera-1510" tvg-logo="http://" group-title="ottera", Channel 1510
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1510
-
-#EXTINF:-1 tvg-id="ottera-1511" tvg-logo="http://" group-title="ottera", Channel 1511
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1511
-
-#EXTINF:-1 tvg-id="ottera-1513" tvg-logo="http://" group-title="ottera", Channel 1513
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1513
-
-#EXTINF:-1 tvg-id="ottera-1514" tvg-logo="http://" group-title="ottera", Channel 1514
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1514
-
-#EXTINF:-1 tvg-id="ottera-1515" tvg-logo="http://" group-title="ottera", Channel 1515
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1515
-
-#EXTINF:-1 tvg-id="ottera-1516" tvg-logo="http://" group-title="ottera", Channel 1516
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1516
-
-#EXTINF:-1 tvg-id="ottera-1517" tvg-logo="http://" group-title="ottera", Channel 1517
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1517
-
-#EXTINF:-1 tvg-id="ottera-1518" tvg-logo="http://" group-title="ottera", Channel 1518
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1518
-
-#EXTINF:-1 tvg-id="ottera-1519" tvg-logo="http://" group-title="ottera", Channel 1519
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1519
-
-#EXTINF:-1 tvg-id="ottera-1520" tvg-logo="http://" group-title="ottera", Channel 1520
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1520
-
-#EXTINF:-1 tvg-id="ottera-1553" tvg-logo="http://" group-title="ottera", Channel 1553
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1553
-
-#EXTINF:-1 tvg-id="ottera-1555" tvg-logo="http://" group-title="ottera", Channel 1555
+#EXTINF:-1 tvg-id="ottera-1555" tvg-logo="http://" group-title="ottera", Golden Boy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1555
 
-#EXTINF:-1 tvg-id="ottera-1650" tvg-logo="http://" group-title="ottera", Channel 1650
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
-
-#EXTINF:-1 tvg-id="ottera-1663" tvg-logo="http://" group-title="ottera", Channel 1663
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1663
-
-#EXTINF:-1 tvg-id="ottera-1676" tvg-logo="http://" group-title="ottera", Channel 1676
+#EXTINF:-1 tvg-id="ottera-1676" tvg-logo="http://" group-title="ottera", F1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 
 #EXTINF:-1 tvg-id="ottera-1677" tvg-logo="http://" group-title="ottera", Channel 1677
@@ -258,10 +162,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1682
 #EXTINF:-1 tvg-id="ottera-1707" tvg-logo="http://" group-title="ottera", Channel 1707
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1707
 
-#EXTINF:-1 tvg-id="ottera-1746" tvg-logo="http://" group-title="ottera", Channel 1746
+#EXTINF:-1 tvg-id="ottera-1746" tvg-logo="http://" group-title="ottera", Cartoon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
 
-#EXTINF:-1 tvg-id="ottera-1755" tvg-logo="http://" group-title="ottera", Channel 1755
+#EXTINF:-1 tvg-id="ottera-1755" tvg-logo="http://" group-title="ottera", MotorPlus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1755
 
 #EXTINF:-1 tvg-id="ottera-1756" tvg-logo="http://" group-title="ottera", Channel 1756
@@ -273,10 +177,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1809
 #EXTINF:-1 tvg-id="ottera-1823" tvg-logo="http://" group-title="ottera", Channel 1823
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1823
 
-#EXTINF:-1 tvg-id="ottera-1824" tvg-logo="http://" group-title="ottera", Channel 1824
+#EXTINF:-1 tvg-id="ottera-1824" tvg-logo="http://" group-title="ottera", MotorPlus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1824
 
-#EXTINF:-1 tvg-id="ottera-1829" tvg-logo="http://" group-title="ottera", Channel 1829
+#EXTINF:-1 tvg-id="ottera-1829" tvg-logo="http://" group-title="ottera", MotorPlus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1829
 
 #EXTINF:-1 tvg-id="ottera-1830" tvg-logo="http://" group-title="ottera", Channel 1830
@@ -285,118 +189,118 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1830
 #EXTINF:-1 tvg-id="ottera-1849" tvg-logo="http://" group-title="ottera", Channel 1849
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1849
 
-#EXTINF:-1 tvg-id="ottera-1854" tvg-logo="http://" group-title="ottera", Channel 1854
+#EXTINF:-1 tvg-id="ottera-1854" tvg-logo="http://" group-title="ottera", Fox SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1854
 
-#EXTINF:-1 tvg-id="ottera-1855" tvg-logo="http://" group-title="ottera", Channel 1855
+#EXTINF:-1 tvg-id="ottera-1855" tvg-logo="http://" group-title="ottera", EURO NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1855
 
-#EXTINF:-1 tvg-id="ottera-1870" tvg-logo="http://" group-title="ottera", Channel 1870
+#EXTINF:-1 tvg-id="ottera-1870" tvg-logo="http://" group-title="ottera", NOsey
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1870
 
-#EXTINF:-1 tvg-id="ottera-1873" tvg-logo="http://" group-title="ottera", Channel 1873
+#EXTINF:-1 tvg-id="ottera-1873" tvg-logo="http://" group-title="ottera", AWE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1873
 
-#EXTINF:-1 tvg-id="ottera-1875" tvg-logo="http://" group-title="ottera", Channel 1875
+#EXTINF:-1 tvg-id="ottera-1875" tvg-logo="http://" group-title="ottera", AWE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1875
 
-#EXTINF:-1 tvg-id="ottera-1877" tvg-logo="http://" group-title="ottera", Channel 1877
+#EXTINF:-1 tvg-id="ottera-1877" tvg-logo="http://" group-title="ottera", OAN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1877
 
 #EXTINF:-1 tvg-id="ottera-1879" tvg-logo="http://" group-title="ottera", Channel 1879
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1879
 
-#EXTINF:-1 tvg-id="ottera-1893" tvg-logo="http://" group-title="ottera", Channel 1893
+#EXTINF:-1 tvg-id="ottera-1893" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1893
 
 #EXTINF:-1 tvg-id="ottera-1895" tvg-logo="http://" group-title="ottera", Channel 1895
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1895
 
-#EXTINF:-1 tvg-id="ottera-1896" tvg-logo="http://" group-title="ottera", Channel 1896
+#EXTINF:-1 tvg-id="ottera-1896" tvg-logo="http://" group-title="ottera", KCCI NEWS 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1896
 
-#EXTINF:-1 tvg-id="ottera-1897" tvg-logo="http://" group-title="ottera", Channel 1897
+#EXTINF:-1 tvg-id="ottera-1897" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1897
 
-#EXTINF:-1 tvg-id="ottera-1898" tvg-logo="http://" group-title="ottera", Channel 1898
+#EXTINF:-1 tvg-id="ottera-1898" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1898
 
-#EXTINF:-1 tvg-id="ottera-1899" tvg-logo="http://" group-title="ottera", Channel 1899
+#EXTINF:-1 tvg-id="ottera-1899" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1899
 
-#EXTINF:-1 tvg-id="ottera-1900" tvg-logo="http://" group-title="ottera", Channel 1900
+#EXTINF:-1 tvg-id="ottera-1900" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1900
 
-#EXTINF:-1 tvg-id="ottera-1901" tvg-logo="http://" group-title="ottera", Channel 1901
+#EXTINF:-1 tvg-id="ottera-1901" tvg-logo="http://" group-title="ottera", KCCI NEWS 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1901
 
-#EXTINF:-1 tvg-id="ottera-1902" tvg-logo="http://" group-title="ottera", Channel 1902
+#EXTINF:-1 tvg-id="ottera-1902" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1902
 
-#EXTINF:-1 tvg-id="ottera-1903" tvg-logo="http://" group-title="ottera", Channel 1903
+#EXTINF:-1 tvg-id="ottera-1903" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1903
 
-#EXTINF:-1 tvg-id="ottera-1904" tvg-logo="http://" group-title="ottera", Channel 1904
+#EXTINF:-1 tvg-id="ottera-1904" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1904
 
-#EXTINF:-1 tvg-id="ottera-1905" tvg-logo="http://" group-title="ottera", Channel 1905
+#EXTINF:-1 tvg-id="ottera-1905" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1905
 
-#EXTINF:-1 tvg-id="ottera-1906" tvg-logo="http://" group-title="ottera", Channel 1906
+#EXTINF:-1 tvg-id="ottera-1906" tvg-logo="http://" group-title="ottera", KCCI NEWS 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1906
 
-#EXTINF:-1 tvg-id="ottera-1907" tvg-logo="http://" group-title="ottera", Channel 1907
+#EXTINF:-1 tvg-id="ottera-1907" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1907
 
-#EXTINF:-1 tvg-id="ottera-1908" tvg-logo="http://" group-title="ottera", Channel 1908
+#EXTINF:-1 tvg-id="ottera-1908" tvg-logo="http://" group-title="ottera", STITCH
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1908
 
-#EXTINF:-1 tvg-id="ottera-1909" tvg-logo="http://" group-title="ottera", Channel 1909
+#EXTINF:-1 tvg-id="ottera-1909" tvg-logo="http://" group-title="ottera", WBALTV 11
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1909
 
-#EXTINF:-1 tvg-id="ottera-1910" tvg-logo="http://" group-title="ottera", Channel 1910
+#EXTINF:-1 tvg-id="ottera-1910" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1910
 
-#EXTINF:-1 tvg-id="ottera-1911" tvg-logo="http://" group-title="ottera", Channel 1911
+#EXTINF:-1 tvg-id="ottera-1911" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1911
 
-#EXTINF:-1 tvg-id="ottera-1912" tvg-logo="http://" group-title="ottera", Channel 1912
+#EXTINF:-1 tvg-id="ottera-1912" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1912
 
-#EXTINF:-1 tvg-id="ottera-1913" tvg-logo="http://" group-title="ottera", Channel 1913
+#EXTINF:-1 tvg-id="ottera-1913" tvg-logo="http://" group-title="ottera", KETV 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1913
 
-#EXTINF:-1 tvg-id="ottera-1914" tvg-logo="http://" group-title="ottera", Channel 1914
+#EXTINF:-1 tvg-id="ottera-1914" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1914
 
-#EXTINF:-1 tvg-id="ottera-1915" tvg-logo="http://" group-title="ottera", Channel 1915
+#EXTINF:-1 tvg-id="ottera-1915" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1915
 
-#EXTINF:-1 tvg-id="ottera-1916" tvg-logo="http://" group-title="ottera", Channel 1916
+#EXTINF:-1 tvg-id="ottera-1916" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1916
 
 #EXTINF:-1 tvg-id="ottera-1917" tvg-logo="http://" group-title="ottera", Channel 1917
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1917
 
-#EXTINF:-1 tvg-id="ottera-1918" tvg-logo="http://" group-title="ottera", Channel 1918
+#EXTINF:-1 tvg-id="ottera-1918" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1918
 
-#EXTINF:-1 tvg-id="ottera-1919" tvg-logo="http://" group-title="ottera", Channel 1919
+#EXTINF:-1 tvg-id="ottera-1919" tvg-logo="http://" group-title="ottera", KMBC NEWS ABC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1919
 
-#EXTINF:-1 tvg-id="ottera-1920" tvg-logo="http://" group-title="ottera", Channel 1920
+#EXTINF:-1 tvg-id="ottera-1920" tvg-logo="http://" group-title="ottera", WBSU 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1920
 
-#EXTINF:-1 tvg-id="ottera-1921" tvg-logo="http://" group-title="ottera", Channel 1921
+#EXTINF:-1 tvg-id="ottera-1921" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1921
 
-#EXTINF:-1 tvg-id="ottera-1922" tvg-logo="http://" group-title="ottera", Channel 1922
+#EXTINF:-1 tvg-id="ottera-1922" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1922
 
-#EXTINF:-1 tvg-id="ottera-1953" tvg-logo="http://" group-title="ottera", Channel 1953
+#EXTINF:-1 tvg-id="ottera-1953" tvg-logo="http://" group-title="ottera", Movies	
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1953
 
-#EXTINF:-1 tvg-id="ottera-1954" tvg-logo="http://" group-title="ottera", Channel 1954
+#EXTINF:-1 tvg-id="ottera-1954" tvg-logo="http://" group-title="ottera", Audio Dungeon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1954
 
 #EXTINF:-1 tvg-id="ottera-1957" tvg-logo="http://" group-title="ottera", Channel 1957
@@ -411,7 +315,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1959
 #EXTINF:-1 tvg-id="ottera-1960" tvg-logo="http://" group-title="ottera", Channel 1960
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1960
 
-#EXTINF:-1 tvg-id="ottera-1962" tvg-logo="http://" group-title="ottera", Channel 1962
+#EXTINF:-1 tvg-id="ottera-1962" tvg-logo="http://" group-title="ottera", Movie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1962
 
 #EXTINF:-1 tvg-id="ottera-1963" tvg-logo="http://" group-title="ottera", Channel 1963
@@ -459,7 +363,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1997
 #EXTINF:-1 tvg-id="ottera-2000" tvg-logo="http://" group-title="ottera", Channel 2000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2000
 
-#EXTM3U
+
+
+
 
 #EXTINF:-1 tvg-id="ottera-2001" tvg-logo="http://" group-title="ottera", Channel 2001
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2001
@@ -482,55 +388,55 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2021
 #EXTINF:-1 tvg-id="ottera-2041" tvg-logo="http://" group-title="ottera", Channel 2041
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2041
 
-#EXTINF:-1 tvg-id="ottera-2043" tvg-logo="http://" group-title="ottera", Channel 2043
+#EXTINF:-1 tvg-id="ottera-2043" tvg-logo="http://" group-title="ottera", Islamic cartoon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2043
 
-#EXTINF:-1 tvg-id="ottera-2054" tvg-logo="http://" group-title="ottera", Channel 2054
+#EXTINF:-1 tvg-id="ottera-2054" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2054
 
-#EXTINF:-1 tvg-id="ottera-2055" tvg-logo="http://" group-title="ottera", Channel 2055
+#EXTINF:-1 tvg-id="ottera-2055" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2055
 
-#EXTINF:-1 tvg-id="ottera-2056" tvg-logo="http://" group-title="ottera", Channel 2056
+#EXTINF:-1 tvg-id="ottera-2056" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2056
 
-#EXTINF:-1 tvg-id="ottera-2057" tvg-logo="http://" group-title="ottera", Channel 2057
+#EXTINF:-1 tvg-id="ottera-2057" tvg-logo="http://" group-title="ottera", WMTW 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2057
 
-#EXTINF:-1 tvg-id="ottera-2058" tvg-logo="http://" group-title="ottera", Channel 2058
+#EXTINF:-1 tvg-id="ottera-2058" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2058
 
-#EXTINF:-1 tvg-id="ottera-2059" tvg-logo="http://" group-title="ottera", Channel 2059
+#EXTINF:-1 tvg-id="ottera-2059" tvg-logo="http://" group-title="ottera", 25WPBF NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2059
 
-#EXTINF:-1 tvg-id="ottera-2060" tvg-logo="http://" group-title="ottera", Channel 2060
+#EXTINF:-1 tvg-id="ottera-2060" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2060
 
-#EXTINF:-1 tvg-id="ottera-2061" tvg-logo="http://" group-title="ottera", Channel 2061
+#EXTINF:-1 tvg-id="ottera-2061" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2061
 
-#EXTINF:-1 tvg-id="ottera-2062" tvg-logo="http://" group-title="ottera", Channel 2062
+#EXTINF:-1 tvg-id="ottera-2062" tvg-logo="http://" group-title="ottera", KOAT SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2062
 
-#EXTINF:-1 tvg-id="ottera-2063" tvg-logo="http://" group-title="ottera", Channel 2063
+#EXTINF:-1 tvg-id="ottera-2063" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2063
 
-#EXTINF:-1 tvg-id="ottera-2064" tvg-logo="http://" group-title="ottera", Channel 2064
+#EXTINF:-1 tvg-id="ottera-2064" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2064
 
-#EXTINF:-1 tvg-id="ottera-2065" tvg-logo="http://" group-title="ottera", Channel 2065
+#EXTINF:-1 tvg-id="ottera-2065" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2065
 
-#EXTINF:-1 tvg-id="ottera-2066" tvg-logo="http://" group-title="ottera", Channel 2066
+#EXTINF:-1 tvg-id="ottera-2066" tvg-logo="http://" group-title="ottera", KOAT 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2066
 
-#EXTINF:-1 tvg-id="ottera-2067" tvg-logo="http://" group-title="ottera", Channel 2067
+#EXTINF:-1 tvg-id="ottera-2067" tvg-logo="http://" group-title="ottera", 8WGAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2067
 
-#EXTINF:-1 tvg-id="ottera-2068" tvg-logo="http://" group-title="ottera", Channel 2068
+#EXTINF:-1 tvg-id="ottera-2068" tvg-logo="http://" group-title="ottera", VERY LOCAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2068
 
-#EXTINF:-1 tvg-id="ottera-2069" tvg-logo="http://" group-title="ottera", Channel 2069
+#EXTINF:-1 tvg-id="ottera-2069" tvg-logo="http://" group-title="ottera", 12WISN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2069
 
 #EXTINF:-1 tvg-id="ottera-2070" tvg-logo="http://" group-title="ottera", Channel 2070
@@ -947,7 +853,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2344
 #EXTINF:-1 tvg-id="ottera-2345" tvg-logo="http://" group-title="ottera", Channel 2345
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2345
 
-#EXTINF:-1 tvg-id="ottera-2351" tvg-logo="http://" group-title="ottera", Channel 2351
+#EXTINF:-1 tvg-id="ottera-2351" tvg-logo="http://" group-title="ottera", XFC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
 
 #EXTINF:-1 tvg-id="ottera-2352" tvg-logo="http://" group-title="ottera", Channel 2352
@@ -1163,6 +1069,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2492
 #EXTINF:-1 tvg-id="ottera-2494" tvg-logo="http://" group-title="ottera", Channel 2494
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2494
 
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ottera-2506" tvg-logo="http://" group-title="ottera", Channel 2506
@@ -1330,5 +1238,1153 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2961
 #EXTINF:-1 tvg-id="ottera-2970" tvg-logo="http://" group-title="ottera", Channel 2970
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2970
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ottera-3018" tvg-logo="http://" group-title="ottera", Channel 3018
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3018
+
+#EXTINF:-1 tvg-id="ottera-3019" tvg-logo="http://" group-title="ottera", Channel 3019
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019
+
+#EXTINF:-1 tvg-id="ottera-3020" tvg-logo="http://" group-title="ottera", Channel 3020
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3020
+
+#EXTINF:-1 tvg-id="ottera-3021" tvg-logo="http://" group-title="ottera", Channel 3021
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3021
+
+#EXTINF:-1 tvg-id="ottera-3022" tvg-logo="http://" group-title="ottera", Channel 3022
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022
+
+#EXTINF:-1 tvg-id="ottera-3023" tvg-logo="http://" group-title="ottera", Channel 3023
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023
+
+#EXTINF:-1 tvg-id="ottera-3024" tvg-logo="http://" group-title="ottera", Channel 3024
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3024
+
+#EXTINF:-1 tvg-id="ottera-3025" tvg-logo="http://" group-title="ottera", Channel 3025
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3025
+
+#EXTINF:-1 tvg-id="ottera-3026" tvg-logo="http://" group-title="ottera", Channel 3026
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3026
+
+#EXTINF:-1 tvg-id="ottera-3027" tvg-logo="http://" group-title="ottera", Channel 3027
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3027
+
+#EXTINF:-1 tvg-id="ottera-3028" tvg-logo="http://" group-title="ottera", Channel 3028
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028
+
+#EXTINF:-1 tvg-id="ottera-3029" tvg-logo="http://" group-title="ottera", Channel 3029
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3029
+
+#EXTINF:-1 tvg-id="ottera-3030" tvg-logo="http://" group-title="ottera", Channel 3030
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3030
+
+#EXTINF:-1 tvg-id="ottera-3031" tvg-logo="http://" group-title="ottera", Channel 3031
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3031
+
+#EXTINF:-1 tvg-id="ottera-3032" tvg-logo="http://" group-title="ottera", Channel 3032
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3032
+
+#EXTINF:-1 tvg-id="ottera-3033" tvg-logo="http://" group-title="ottera", Channel 3033
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3033
+
+#EXTINF:-1 tvg-id="ottera-3034" tvg-logo="http://" group-title="ottera", Channel 3034
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
+
+#EXTINF:-1 tvg-id="ottera-3035" tvg-logo="http://" group-title="ottera", Channel 3035
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3035
+
+#EXTINF:-1 tvg-id="ottera-3036" tvg-logo="http://" group-title="ottera", Channel 3036
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3036
+
+#EXTINF:-1 tvg-id="ottera-3037" tvg-logo="http://" group-title="ottera", Channel 3037
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3037
+
+#EXTINF:-1 tvg-id="ottera-3038" tvg-logo="http://" group-title="ottera", Channel 3038
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3038
+
+#EXTINF:-1 tvg-id="ottera-3039" tvg-logo="http://" group-title="ottera", Channel 3039
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
+
+#EXTINF:-1 tvg-id="ottera-3040" tvg-logo="http://" group-title="ottera", Channel 3040
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3040
+
+#EXTINF:-1 tvg-id="ottera-3041" tvg-logo="http://" group-title="ottera", Channel 3041
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
+
+#EXTINF:-1 tvg-id="ottera-3042" tvg-logo="http://" group-title="ottera", Channel 3042
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3042
+
+#EXTINF:-1 tvg-id="ottera-3045" tvg-logo="http://" group-title="ottera", Channel 3045
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3045
+
+#EXTINF:-1 tvg-id="ottera-3046" tvg-logo="http://" group-title="ottera", Channel 3046
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3046
+
+#EXTINF:-1 tvg-id="ottera-3048" tvg-logo="http://" group-title="ottera", Channel 3048
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3048
+
+#EXTINF:-1 tvg-id="ottera-3053" tvg-logo="http://" group-title="ottera", Channel 3053
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+
+#EXTINF:-1 tvg-id="ottera-3056" tvg-logo="http://" group-title="ottera", Channel 3056
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+
+#EXTINF:-1 tvg-id="ottera-3059" tvg-logo="http://" group-title="ottera", Channel 3059
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3059
+
+#EXTINF:-1 tvg-id="ottera-3060" tvg-logo="http://" group-title="ottera", Channel 3060
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3060
+
+#EXTINF:-1 tvg-id="ottera-3061" tvg-logo="http://" group-title="ottera", Channel 3061
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3061
+
+#EXTINF:-1 tvg-id="ottera-3062" tvg-logo="http://" group-title="ottera", Channel 3062
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3062
+
+#EXTINF:-1 tvg-id="ottera-3063" tvg-logo="http://" group-title="ottera", Channel 3063
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3063
+
+#EXTINF:-1 tvg-id="ottera-3064" tvg-logo="http://" group-title="ottera", Channel 3064
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3064
+
+#EXTINF:-1 tvg-id="ottera-3072" tvg-logo="http://" group-title="ottera", Channel 3072
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3072
+
+#EXTINF:-1 tvg-id="ottera-3080" tvg-logo="http://" group-title="ottera", Channel 3080
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3080
+
+#EXTINF:-1 tvg-id="ottera-3112" tvg-logo="http://" group-title="ottera", Channel 3112
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3112
+
+#EXTINF:-1 tvg-id="ottera-3126" tvg-logo="http://" group-title="ottera", Channel 3126
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3126
+
+#EXTINF:-1 tvg-id="ottera-3205" tvg-logo="http://" group-title="ottera", Channel 3205
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3205
+
+#EXTINF:-1 tvg-id="ottera-3207" tvg-logo="http://" group-title="ottera", Channel 3207
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3207
+
+#EXTINF:-1 tvg-id="ottera-3212" tvg-logo="http://" group-title="ottera", Channel 3212
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3212
+
+#EXTINF:-1 tvg-id="ottera-3252" tvg-logo="http://" group-title="ottera", Channel 3252
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3252
+
+#EXTINF:-1 tvg-id="ottera-3253" tvg-logo="http://" group-title="ottera", Channel 3253
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3253
+
+#EXTINF:-1 tvg-id="ottera-3268" tvg-logo="http://" group-title="ottera", Channel 3268
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3268
+
+#EXTINF:-1 tvg-id="ottera-3270" tvg-logo="http://" group-title="ottera", Channel 3270
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3270
+
+#EXTINF:-1 tvg-id="ottera-3279" tvg-logo="http://" group-title="ottera", Channel 3279
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3279
+
+#EXTINF:-1 tvg-id="ottera-3293" tvg-logo="http://" group-title="ottera", Channel 3293
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3293
+
+#EXTINF:-1 tvg-id="ottera-3294" tvg-logo="http://" group-title="ottera", Channel 3294
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
+
+#EXTINF:-1 tvg-id="ottera-3297" tvg-logo="http://" group-title="ottera", Channel 3297
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3297
+
+#EXTINF:-1 tvg-id="ottera-3298" tvg-logo="http://" group-title="ottera", Channel 3298
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
+
+#EXTINF:-1 tvg-id="ottera-3305" tvg-logo="http://" group-title="ottera", Channel 3305
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3305
+
+#EXTINF:-1 tvg-id="ottera-3319" tvg-logo="http://" group-title="ottera", Channel 3319
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3319
+
+#EXTINF:-1 tvg-id="ottera-3323" tvg-logo="http://" group-title="ottera", Channel 3323
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3323
+
+#EXTINF:-1 tvg-id="ottera-3327" tvg-logo="http://" group-title="ottera", Channel 3327
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3327
+
+#EXTINF:-1 tvg-id="ottera-3341" tvg-logo="http://" group-title="ottera", Channel 3341
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3341
+
+#EXTINF:-1 tvg-id="ottera-3342" tvg-logo="http://" group-title="ottera", Channel 3342
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3342
+
+#EXTINF:-1 tvg-id="ottera-3344" tvg-logo="http://" group-title="ottera", Channel 3344
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3344
+
+#EXTINF:-1 tvg-id="ottera-3391" tvg-logo="http://" group-title="ottera", Channel 3391
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3391
+
+#EXTINF:-1 tvg-id="ottera-3392" tvg-logo="http://" group-title="ottera", Channel 3392
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3392
+
+#EXTINF:-1 tvg-id="ottera-3393" tvg-logo="http://" group-title="ottera", Channel 3393
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3393
+
+#EXTINF:-1 tvg-id="ottera-3395" tvg-logo="http://" group-title="ottera", Channel 3395
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3395
+
+#EXTINF:-1 tvg-id="ottera-3396" tvg-logo="http://" group-title="ottera", Channel 3396
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3396
+
+#EXTINF:-1 tvg-id="ottera-3397" tvg-logo="http://" group-title="ottera", Channel 3397
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3397
+
+#EXTINF:-1 tvg-id="ottera-3398" tvg-logo="http://" group-title="ottera", Channel 3398
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3398
+
+#EXTINF:-1 tvg-id="ottera-3401" tvg-logo="http://" group-title="ottera", Channel 3401
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3401
+
+#EXTINF:-1 tvg-id="ottera-3406" tvg-logo="http://" group-title="ottera", Channel 3406
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3406
+
+#EXTINF:-1 tvg-id="ottera-3433" tvg-logo="http://" group-title="ottera", Channel 3433
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3433
+
+#EXTINF:-1 tvg-id="ottera-3435" tvg-logo="http://" group-title="ottera", Channel 3435
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
+
+#EXTINF:-1 tvg-id="ottera-3437" tvg-logo="http://" group-title="ottera", Channel 3437
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3437
+
+#EXTINF:-1 tvg-id="ottera-3441" tvg-logo="http://" group-title="ottera", Channel 3441
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3441
+
+#EXTINF:-1 tvg-id="ottera-3453" tvg-logo="http://" group-title="ottera", Channel 3453
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3453
+
+#EXTINF:-1 tvg-id="ottera-3467" tvg-logo="http://" group-title="ottera", Channel 3467
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3467
+
+#EXTINF:-1 tvg-id="ottera-3470" tvg-logo="http://" group-title="ottera", Channel 3470
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3470
+
+#EXTINF:-1 tvg-id="ottera-3476" tvg-logo="http://" group-title="ottera", Channel 3476
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3476
+
+#EXTINF:-1 tvg-id="ottera-3477" tvg-logo="http://" group-title="ottera", Channel 3477
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3477
+
+#EXTINF:-1 tvg-id="ottera-3481" tvg-logo="http://" group-title="ottera", Channel 3481
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3481
+
+#EXTINF:-1 tvg-id="ottera-3483" tvg-logo="http://" group-title="ottera", Channel 3483
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3483
+
+#EXTINF:-1 tvg-id="ottera-3484" tvg-logo="http://" group-title="ottera", Channel 3484
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3484
+
+#EXTINF:-1 tvg-id="ottera-3485" tvg-logo="http://" group-title="ottera", Channel 3485
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3485
+
+#EXTINF:-1 tvg-id="ottera-3491" tvg-logo="http://" group-title="ottera", Channel 3491
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
+
+#EXTINF:-1 tvg-id="ottera-3514" tvg-logo="http://" group-title="ottera", Channel 3514
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3514
+
+#EXTINF:-1 tvg-id="ottera-3515" tvg-logo="http://" group-title="ottera", Channel 3515
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3515
+
+#EXTINF:-1 tvg-id="ottera-3520" tvg-logo="http://" group-title="ottera", Channel 3520
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3520
+
+#EXTINF:-1 tvg-id="ottera-3525" tvg-logo="http://" group-title="ottera", Channel 3525
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3525
+
+#EXTINF:-1 tvg-id="ottera-3527" tvg-logo="http://" group-title="ottera", Channel 3527
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+
+#EXTINF:-1 tvg-id="ottera-3528" tvg-logo="http://" group-title="ottera", Channel 3528
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+#EXTINF:-1 tvg-id="ottera-3529" tvg-logo="http://" group-title="ottera", Channel 3529
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+#EXTINF:-1 tvg-id="ottera-3530" tvg-logo="http://" group-title="ottera", Channel 3530
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3530
+
+#EXTINF:-1 tvg-id="ottera-3531" tvg-logo="http://" group-title="ottera", Channel 3531
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3531
+
+#EXTINF:-1 tvg-id="ottera-3533" tvg-logo="http://" group-title="ottera", Channel 3533
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+
+#EXTINF:-1 tvg-id="ottera-3534" tvg-logo="http://" group-title="ottera", Channel 3534
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3534
+
+#EXTINF:-1 tvg-id="ottera-3535" tvg-logo="http://" group-title="ottera", Channel 3535
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3535
+
+#EXTINF:-1 tvg-id="ottera-3540" tvg-logo="http://" group-title="ottera", Channel 3540
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3540
+
+#EXTINF:-1 tvg-id="ottera-3559" tvg-logo="http://" group-title="ottera", Channel 3559
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3559
+
+#EXTINF:-1 tvg-id="ottera-3872" tvg-logo="http://" group-title="ottera", Channel 3872
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3872
+
+#EXTINF:-1 tvg-id="ottera-3874" tvg-logo="http://" group-title="ottera", Channel 3874
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3874
+
+#EXTINF:-1 tvg-id="ottera-3876" tvg-logo="http://" group-title="ottera", Channel 3876
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3876
+
+#EXTINF:-1 tvg-id="ottera-3887" tvg-logo="http://" group-title="ottera", Channel 3887
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3887
+
+#EXTINF:-1 tvg-id="ottera-3888" tvg-logo="http://" group-title="ottera", Channel 3888
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3888
+
+#EXTINF:-1 tvg-id="ottera-3889" tvg-logo="http://" group-title="ottera", Channel 3889
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3889
+
+#EXTINF:-1 tvg-id="ottera-3890" tvg-logo="http://" group-title="ottera", Channel 3890
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3890
+
+#EXTINF:-1 tvg-id="ottera-3891" tvg-logo="http://" group-title="ottera", Channel 3891
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3891
+
+#EXTINF:-1 tvg-id="ottera-3892" tvg-logo="http://" group-title="ottera", Channel 3892
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3892
+
+#EXTINF:-1 tvg-id="ottera-3893" tvg-logo="http://" group-title="ottera", Channel 3893
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3893
+
+#EXTINF:-1 tvg-id="ottera-3894" tvg-logo="http://" group-title="ottera", Channel 3894
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3894
+
+#EXTINF:-1 tvg-id="ottera-3895" tvg-logo="http://" group-title="ottera", Channel 3895
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3895
+
+#EXTINF:-1 tvg-id="ottera-3896" tvg-logo="http://" group-title="ottera", Channel 3896
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3896
+
+#EXTINF:-1 tvg-id="ottera-3897" tvg-logo="http://" group-title="ottera", Channel 3897
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3897
+
+#EXTINF:-1 tvg-id="ottera-3899" tvg-logo="http://" group-title="ottera", Channel 3899
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3899
+
+#EXTINF:-1 tvg-id="ottera-3901" tvg-logo="http://" group-title="ottera", Channel 3901
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3901
+
+#EXTINF:-1 tvg-id="ottera-3904" tvg-logo="http://" group-title="ottera", Channel 3904
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3904
+
+#EXTINF:-1 tvg-id="ottera-3905" tvg-logo="http://" group-title="ottera", Channel 3905
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3905
+
+#EXTINF:-1 tvg-id="ottera-3907" tvg-logo="http://" group-title="ottera", Channel 3907
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3907
+
+#EXTINF:-1 tvg-id="ottera-3923" tvg-logo="http://" group-title="ottera", Channel 3923
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3923
+
+#EXTINF:-1 tvg-id="ottera-3927" tvg-logo="http://" group-title="ottera", Channel 3927
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3927
+
+#EXTINF:-1 tvg-id="ottera-3928" tvg-logo="http://" group-title="ottera", Channel 3928
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3928
+
+#EXTINF:-1 tvg-id="ottera-3929" tvg-logo="http://" group-title="ottera", Channel 3929
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3929
+
+#EXTINF:-1 tvg-id="ottera-3931" tvg-logo="http://" group-title="ottera", Channel 3931
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3931
+
+#EXTINF:-1 tvg-id="ottera-3939" tvg-logo="http://" group-title="ottera", Channel 3939
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3939
+
+#EXTINF:-1 tvg-id="ottera-3953" tvg-logo="http://" group-title="ottera", Channel 3953
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3953
+
+#EXTINF:-1 tvg-id="ottera-3954" tvg-logo="http://" group-title="ottera", Channel 3954
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3954
+
+#EXTINF:-1 tvg-id="ottera-3958" tvg-logo="http://" group-title="ottera", Channel 3958
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3958
+
+#EXTINF:-1 tvg-id="ottera-3963" tvg-logo="http://" group-title="ottera", Channel 3963
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3963
+
+#EXTINF:-1 tvg-id="ottera-3964" tvg-logo="http://" group-title="ottera", Channel 3964
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3964
+
+#EXTINF:-1 tvg-id="ottera-3965" tvg-logo="http://" group-title="ottera", Channel 3965
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3965
+
+#EXTINF:-1 tvg-id="ottera-3968" tvg-logo="http://" group-title="ottera", Channel 3968
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3968
+
+#EXTINF:-1 tvg-id="ottera-3969" tvg-logo="http://" group-title="ottera", Channel 3969
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3969
+
+#EXTINF:-1 tvg-id="ottera-3970" tvg-logo="http://" group-title="ottera", Channel 3970
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3970
+
+#EXTINF:-1 tvg-id="ottera-3971" tvg-logo="http://" group-title="ottera", Channel 3971
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3971
+
+#EXTINF:-1 tvg-id="ottera-3999" tvg-logo="http://" group-title="ottera", Channel 3999
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3999
+
+#EXTINF:-1 tvg-id="ottera-4003" tvg-logo="http://" group-title="ottera", Channel 4003
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4003
+
+#EXTINF:-1 tvg-id="ottera-4009" tvg-logo="http://" group-title="ottera", Channel 4009
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4009
+
+#EXTINF:-1 tvg-id="ottera-4010" tvg-logo="http://" group-title="ottera", Channel 4010
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4010
+
+#EXTINF:-1 tvg-id="ottera-4011" tvg-logo="http://" group-title="ottera", Channel 4011
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4011
+
+#EXTINF:-1 tvg-id="ottera-4012" tvg-logo="http://" group-title="ottera", Channel 4012
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4012
+
+#EXTINF:-1 tvg-id="ottera-4014" tvg-logo="http://" group-title="ottera", Channel 4014
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4014
+
+#EXTINF:-1 tvg-id="ottera-4015" tvg-logo="http://" group-title="ottera", Channel 4015
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4015
+
+#EXTINF:-1 tvg-id="ottera-4016" tvg-logo="http://" group-title="ottera", Channel 4016
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4016
+
+#EXTINF:-1 tvg-id="ottera-4017" tvg-logo="http://" group-title="ottera", Channel 4017
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4017
+
+#EXTINF:-1 tvg-id="ottera-4018" tvg-logo="http://" group-title="ottera", Channel 4018
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4018
+
+#EXTINF:-1 tvg-id="ottera-4019" tvg-logo="http://" group-title="ottera", Channel 4019
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4019
+
+#EXTINF:-1 tvg-id="ottera-4020" tvg-logo="http://" group-title="ottera", Channel 4020
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4020
+
+#EXTINF:-1 tvg-id="ottera-4021" tvg-logo="http://" group-title="ottera", Channel 4021
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4021
+
+#EXTINF:-1 tvg-id="ottera-4022" tvg-logo="http://" group-title="ottera", Channel 4022
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4022
+
+#EXTINF:-1 tvg-id="ottera-4023" tvg-logo="http://" group-title="ottera", Channel 4023
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4023
+
+#EXTINF:-1 tvg-id="ottera-4032" tvg-logo="http://" group-title="ottera", Channel 4032
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4032
+
+#EXTINF:-1 tvg-id="ottera-4059" tvg-logo="http://" group-title="ottera", Channel 4059
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4059
+
+#EXTINF:-1 tvg-id="ottera-4063" tvg-logo="http://" group-title="ottera", Channel 4063
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4063
+
+#EXTINF:-1 tvg-id="ottera-4065" tvg-logo="http://" group-title="ottera", Channel 4065
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+
+#EXTINF:-1 tvg-id="ottera-4076" tvg-logo="http://" group-title="ottera", Channel 4076
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4076
+
+#EXTINF:-1 tvg-id="ottera-4083" tvg-logo="http://" group-title="ottera", Channel 4083
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4083
+
+#EXTINF:-1 tvg-id="ottera-4084" tvg-logo="http://" group-title="ottera", Channel 4084
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4084
+
+#EXTINF:-1 tvg-id="ottera-4085" tvg-logo="http://" group-title="ottera", Channel 4085
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4085
+
+#EXTINF:-1 tvg-id="ottera-4117" tvg-logo="http://" group-title="ottera", Channel 4117
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4117
+
+#EXTINF:-1 tvg-id="ottera-4122" tvg-logo="http://" group-title="ottera", Channel 4122
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4122
+
+#EXTINF:-1 tvg-id="ottera-4129" tvg-logo="http://" group-title="ottera", Channel 4129
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4129
+
+#EXTINF:-1 tvg-id="ottera-4150" tvg-logo="http://" group-title="ottera", Channel 4150
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4150
+
+#EXTINF:-1 tvg-id="ottera-4156" tvg-logo="http://" group-title="ottera", Channel 4156
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4156
+
+#EXTINF:-1 tvg-id="ottera-4157" tvg-logo="http://" group-title="ottera", Channel 4157
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4157
+
+#EXTINF:-1 tvg-id="ottera-4158" tvg-logo="http://" group-title="ottera", Channel 4158
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+
+#EXTINF:-1 tvg-id="ottera-4183" tvg-logo="http://" group-title="ottera", Channel 4183
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4183
+
+#EXTINF:-1 tvg-id="ottera-4211" tvg-logo="http://" group-title="ottera", Channel 4211
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
+
+#EXTINF:-1 tvg-id="ottera-4213" tvg-logo="http://" group-title="ottera", Channel 4213
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4213
+
+#EXTINF:-1 tvg-id="ottera-4215" tvg-logo="http://" group-title="ottera", Channel 4215
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4215
+
+#EXTINF:-1 tvg-id="ottera-4216" tvg-logo="http://" group-title="ottera", Channel 4216
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4216
+
+#EXTINF:-1 tvg-id="ottera-4217" tvg-logo="http://" group-title="ottera", Channel 4217
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4217
+
+#EXTINF:-1 tvg-id="ottera-4218" tvg-logo="http://" group-title="ottera", Channel 4218
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4218
+
+#EXTINF:-1 tvg-id="ottera-4219" tvg-logo="http://" group-title="ottera", Channel 4219
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4219
+
+#EXTINF:-1 tvg-id="ottera-4220" tvg-logo="http://" group-title="ottera", Channel 4220
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4220
+
+#EXTINF:-1 tvg-id="ottera-4221" tvg-logo="http://" group-title="ottera", Channel 4221
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4221
+
+#EXTINF:-1 tvg-id="ottera-4222" tvg-logo="http://" group-title="ottera", Channel 4222
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4222
+
+#EXTINF:-1 tvg-id="ottera-4223" tvg-logo="http://" group-title="ottera", Channel 4223
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4223
+
+#EXTINF:-1 tvg-id="ottera-4225" tvg-logo="http://" group-title="ottera", Channel 4225
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4225
+
+#EXTINF:-1 tvg-id="ottera-4226" tvg-logo="http://" group-title="ottera", Channel 4226
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4226
+
+#EXTINF:-1 tvg-id="ottera-4227" tvg-logo="http://" group-title="ottera", Channel 4227
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4227
+
+#EXTINF:-1 tvg-id="ottera-4228" tvg-logo="http://" group-title="ottera", Channel 4228
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4228
+
+#EXTINF:-1 tvg-id="ottera-4229" tvg-logo="http://" group-title="ottera", Channel 4229
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4229
+
+#EXTINF:-1 tvg-id="ottera-4230" tvg-logo="http://" group-title="ottera", Channel 4230
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4230
+
+#EXTINF:-1 tvg-id="ottera-4231" tvg-logo="http://" group-title="ottera", Channel 4231
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4231
+
+#EXTINF:-1 tvg-id="ottera-4232" tvg-logo="http://" group-title="ottera", Channel 4232
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4232
+
+#EXTINF:-1 tvg-id="ottera-4233" tvg-logo="http://" group-title="ottera", Channel 4233
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4233
+
+#EXTINF:-1 tvg-id="ottera-4234" tvg-logo="http://" group-title="ottera", Channel 4234
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4234
+
+#EXTINF:-1 tvg-id="ottera-4235" tvg-logo="http://" group-title="ottera", Channel 4235
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4235
+
+#EXTINF:-1 tvg-id="ottera-4236" tvg-logo="http://" group-title="ottera", Channel 4236
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4236
+
+#EXTINF:-1 tvg-id="ottera-4251" tvg-logo="http://" group-title="ottera", Channel 4251
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4251
+
+#EXTINF:-1 tvg-id="ottera-4254" tvg-logo="http://" group-title="ottera", Channel 4254
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4254
+
+#EXTINF:-1 tvg-id="ottera-4255" tvg-logo="http://" group-title="ottera", Channel 4255
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4255
+
+#EXTINF:-1 tvg-id="ottera-4256" tvg-logo="http://" group-title="ottera", Channel 4256
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4256
+
+#EXTINF:-1 tvg-id="ottera-4257" tvg-logo="http://" group-title="ottera", Channel 4257
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4257
+
+#EXTINF:-1 tvg-id="ottera-4263" tvg-logo="http://" group-title="ottera", Channel 4263
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4263
+
+#EXTINF:-1 tvg-id="ottera-4265" tvg-logo="http://" group-title="ottera", Channel 4265
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4265
+
+#EXTINF:-1 tvg-id="ottera-4272" tvg-logo="http://" group-title="ottera", Channel 4272
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4272
+
+#EXTINF:-1 tvg-id="ottera-4276" tvg-logo="http://" group-title="ottera", Channel 4276
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4276
+
+#EXTINF:-1 tvg-id="ottera-4277" tvg-logo="http://" group-title="ottera", Channel 4277
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4277
+
+#EXTINF:-1 tvg-id="ottera-4280" tvg-logo="http://" group-title="ottera", Channel 4280
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4280
+
+#EXTINF:-1 tvg-id="ottera-4281" tvg-logo="http://" group-title="ottera", Channel 4281
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4281
+
+#EXTINF:-1 tvg-id="ottera-4283" tvg-logo="http://" group-title="ottera", Channel 4283
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4283
+
+#EXTINF:-1 tvg-id="ottera-4296" tvg-logo="http://" group-title="ottera", Channel 4296
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4296
+
+#EXTINF:-1 tvg-id="ottera-4299" tvg-logo="http://" group-title="ottera", Channel 4299
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4299
+
+#EXTINF:-1 tvg-id="ottera-4309" tvg-logo="http://" group-title="ottera", Channel 4309
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4309
+
+#EXTINF:-1 tvg-id="ottera-4318" tvg-logo="http://" group-title="ottera", Channel 4318
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4318
+
+#EXTINF:-1 tvg-id="ottera-4326" tvg-logo="http://" group-title="ottera", Channel 4326
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4326
+
+#EXTINF:-1 tvg-id="ottera-4347" tvg-logo="http://" group-title="ottera", Channel 4347
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4347
+
+#EXTINF:-1 tvg-id="ottera-4360" tvg-logo="http://" group-title="ottera", Channel 4360
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4360
+
+#EXTINF:-1 tvg-id="ottera-4365" tvg-logo="http://" group-title="ottera", Channel 4365
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4365
+
+#EXTINF:-1 tvg-id="ottera-4368" tvg-logo="http://" group-title="ottera", Channel 4368
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368
+
+#EXTINF:-1 tvg-id="ottera-4379" tvg-logo="http://" group-title="ottera", Channel 4379
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4379
+
+#EXTINF:-1 tvg-id="ottera-4380" tvg-logo="http://" group-title="ottera", Channel 4380
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4380
+
+#EXTINF:-1 tvg-id="ottera-4382" tvg-logo="http://" group-title="ottera", Channel 4382
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4382
+
+#EXTINF:-1 tvg-id="ottera-4388" tvg-logo="http://" group-title="ottera", Channel 4388
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
+
+#EXTINF:-1 tvg-id="ottera-4390" tvg-logo="http://" group-title="ottera", Channel 4390
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4390
+
+#EXTINF:-1 tvg-id="ottera-4394" tvg-logo="http://" group-title="ottera", Channel 4394
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4394
+
+#EXTINF:-1 tvg-id="ottera-4395" tvg-logo="http://" group-title="ottera", Channel 4395
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4395
+
+#EXTINF:-1 tvg-id="ottera-4397" tvg-logo="http://" group-title="ottera", Channel 4397
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4397
+
+#EXTINF:-1 tvg-id="ottera-4405" tvg-logo="http://" group-title="ottera", Channel 4405
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4405
+
+#EXTINF:-1 tvg-id="ottera-4406" tvg-logo="http://" group-title="ottera", Channel 4406
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4406
+
+#EXTINF:-1 tvg-id="ottera-4410" tvg-logo="http://" group-title="ottera", Channel 4410
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4410
+
+#EXTINF:-1 tvg-id="ottera-4416" tvg-logo="http://" group-title="ottera", Channel 4416
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4416
+
+#EXTINF:-1 tvg-id="ottera-4424" tvg-logo="http://" group-title="ottera", Channel 4424
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4424
+
+#EXTINF:-1 tvg-id="ottera-4427" tvg-logo="http://" group-title="ottera", Channel 4427
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4427
+
+#EXTINF:-1 tvg-id="ottera-4430" tvg-logo="http://" group-title="ottera", Channel 4430
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4430
+
+#EXTINF:-1 tvg-id="ottera-4432" tvg-logo="http://" group-title="ottera", Channel 4432
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4432
+
+#EXTINF:-1 tvg-id="ottera-4437" tvg-logo="http://" group-title="ottera", Channel 4437
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4437
+
+#EXTINF:-1 tvg-id="ottera-4438" tvg-logo="http://" group-title="ottera", Channel 4438
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4438
+
+#EXTINF:-1 tvg-id="ottera-4439" tvg-logo="http://" group-title="ottera", Channel 4439
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4439
+
+#EXTINF:-1 tvg-id="ottera-4447" tvg-logo="http://" group-title="ottera", Channel 4447
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4447
+
+#EXTINF:-1 tvg-id="ottera-4451" tvg-logo="http://" group-title="ottera", Channel 4451
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4451
+
+#EXTINF:-1 tvg-id="ottera-4453" tvg-logo="http://" group-title="ottera", Channel 4453
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4453
+
+#EXTINF:-1 tvg-id="ottera-4454" tvg-logo="http://" group-title="ottera", Channel 4454
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4454
+
+#EXTINF:-1 tvg-id="ottera-4455" tvg-logo="http://" group-title="ottera", Channel 4455
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4455
+
+#EXTINF:-1 tvg-id="ottera-4456" tvg-logo="http://" group-title="ottera", Channel 4456
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4456
+
+#EXTINF:-1 tvg-id="ottera-4457" tvg-logo="http://" group-title="ottera", Channel 4457
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4457
+
+#EXTINF:-1 tvg-id="ottera-4458" tvg-logo="http://" group-title="ottera", Channel 4458
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4458
+
+#EXTINF:-1 tvg-id="ottera-4459" tvg-logo="http://" group-title="ottera", Channel 4459
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4459
+
+#EXTINF:-1 tvg-id="ottera-4460" tvg-logo="http://" group-title="ottera", Channel 4460
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4460
+
+#EXTINF:-1 tvg-id="ottera-4461" tvg-logo="http://" group-title="ottera", Channel 4461
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4461
+
+#EXTINF:-1 tvg-id="ottera-4462" tvg-logo="http://" group-title="ottera", Channel 4462
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4462
+
+#EXTINF:-1 tvg-id="ottera-4463" tvg-logo="http://" group-title="ottera", Channel 4463
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4463
+
+#EXTINF:-1 tvg-id="ottera-4464" tvg-logo="http://" group-title="ottera", Channel 4464
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4464
+
+#EXTINF:-1 tvg-id="ottera-4466" tvg-logo="http://" group-title="ottera", Channel 4466
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4466
+
+#EXTINF:-1 tvg-id="ottera-4469" tvg-logo="http://" group-title="ottera", Channel 4469
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4469
+
+#EXTINF:-1 tvg-id="ottera-4470" tvg-logo="http://" group-title="ottera", Channel 4470
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4470
+
+#EXTINF:-1 tvg-id="ottera-4471" tvg-logo="http://" group-title="ottera", Channel 4471
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4471
+
+#EXTINF:-1 tvg-id="ottera-4472" tvg-logo="http://" group-title="ottera", Channel 4472
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4472
+
+#EXTINF:-1 tvg-id="ottera-4473" tvg-logo="http://" group-title="ottera", Channel 4473
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4473
+
+#EXTINF:-1 tvg-id="ottera-4474" tvg-logo="http://" group-title="ottera", Channel 4474
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4474
+
+#EXTINF:-1 tvg-id="ottera-4475" tvg-logo="http://" group-title="ottera", Channel 4475
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4475
+
+#EXTINF:-1 tvg-id="ottera-4476" tvg-logo="http://" group-title="ottera", Channel 4476
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4476
+
+#EXTINF:-1 tvg-id="ottera-4477" tvg-logo="http://" group-title="ottera", Channel 4477
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4477
+
+#EXTINF:-1 tvg-id="ottera-4478" tvg-logo="http://" group-title="ottera", Channel 4478
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4478
+
+#EXTINF:-1 tvg-id="ottera-4480" tvg-logo="http://" group-title="ottera", Channel 4480
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4480
+
+#EXTINF:-1 tvg-id="ottera-4481" tvg-logo="http://" group-title="ottera", Channel 4481
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4481
+
+#EXTINF:-1 tvg-id="ottera-4482" tvg-logo="http://" group-title="ottera", Channel 4482
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4482
+
+#EXTINF:-1 tvg-id="ottera-4485" tvg-logo="http://" group-title="ottera", Channel 4485
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4485
+
+#EXTINF:-1 tvg-id="ottera-4487" tvg-logo="http://" group-title="ottera", Channel 4487
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4487
+
+#EXTINF:-1 tvg-id="ottera-4492" tvg-logo="http://" group-title="ottera", Channel 4492
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4492
+
+#EXTINF:-1 tvg-id="ottera-4493" tvg-logo="http://" group-title="ottera", Channel 4493
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4493
+
+#EXTINF:-1 tvg-id="ottera-4495" tvg-logo="http://" group-title="ottera", Channel 4495
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4495
+
+#EXTINF:-1 tvg-id="ottera-4498" tvg-logo="http://" group-title="ottera", Channel 4498
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4498
+
+#EXTINF:-1 tvg-id="ottera-4506" tvg-logo="http://" group-title="ottera", Channel 4506
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4506
+
+#EXTINF:-1 tvg-id="ottera-4511" tvg-logo="http://" group-title="ottera", Channel 4511
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4511
+
+#EXTINF:-1 tvg-id="ottera-4512" tvg-logo="http://" group-title="ottera", Channel 4512
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4512
+
+#EXTINF:-1 tvg-id="ottera-4513" tvg-logo="http://" group-title="ottera", Channel 4513
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4513
+
+#EXTINF:-1 tvg-id="ottera-4519" tvg-logo="http://" group-title="ottera", Channel 4519
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4519
+
+#EXTINF:-1 tvg-id="ottera-4520" tvg-logo="http://" group-title="ottera", Channel 4520
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4520
+
+#EXTINF:-1 tvg-id="ottera-4521" tvg-logo="http://" group-title="ottera", Channel 4521
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4521
+
+#EXTINF:-1 tvg-id="ottera-4522" tvg-logo="http://" group-title="ottera", Channel 4522
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4522
+
+#EXTINF:-1 tvg-id="ottera-4525" tvg-logo="http://" group-title="ottera", Channel 4525
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4525
+
+#EXTINF:-1 tvg-id="ottera-4526" tvg-logo="http://" group-title="ottera", Channel 4526
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4526
+
+#EXTINF:-1 tvg-id="ottera-4531" tvg-logo="http://" group-title="ottera", Channel 4531
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4531
+
+#EXTINF:-1 tvg-id="ottera-4562" tvg-logo="http://" group-title="ottera", Channel 4562
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4562
+
+#EXTINF:-1 tvg-id="ottera-4589" tvg-logo="http://" group-title="ottera", Channel 4589
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4589
+
+#EXTINF:-1 tvg-id="ottera-4590" tvg-logo="http://" group-title="ottera", Channel 4590
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4590
+
+#EXTINF:-1 tvg-id="ottera-4591" tvg-logo="http://" group-title="ottera", Channel 4591
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591
+
+#EXTINF:-1 tvg-id="ottera-4592" tvg-logo="http://" group-title="ottera", Channel 4592
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4592
+
+#EXTINF:-1 tvg-id="ottera-4593" tvg-logo="http://" group-title="ottera", Channel 4593
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4593
+
+#EXTINF:-1 tvg-id="ottera-4594" tvg-logo="http://" group-title="ottera", Channel 4594
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4594
+
+#EXTINF:-1 tvg-id="ottera-4595" tvg-logo="http://" group-title="ottera", Channel 4595
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4595
+
+#EXTINF:-1 tvg-id="ottera-4596" tvg-logo="http://" group-title="ottera", Channel 4596
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4596
+
+#EXTINF:-1 tvg-id="ottera-4597" tvg-logo="http://" group-title="ottera", Channel 4597
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4597
+
+#EXTINF:-1 tvg-id="ottera-4598" tvg-logo="http://" group-title="ottera", Channel 4598
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4598
+
+#EXTINF:-1 tvg-id="ottera-4599" tvg-logo="http://" group-title="ottera", Channel 4599
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4599
+
+#EXTINF:-1 tvg-id="ottera-4601" tvg-logo="http://" group-title="ottera", Channel 4601
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4601
+
+#EXTINF:-1 tvg-id="ottera-4608" tvg-logo="http://" group-title="ottera", Channel 4608
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4608
+
+#EXTINF:-1 tvg-id="ottera-4609" tvg-logo="http://" group-title="ottera", Channel 4609
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4609
+
+#EXTINF:-1 tvg-id="ottera-4610" tvg-logo="http://" group-title="ottera", Channel 4610
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
+
+#EXTINF:-1 tvg-id="ottera-4611" tvg-logo="http://" group-title="ottera", Channel 4611
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4611
+
+#EXTINF:-1 tvg-id="ottera-4612" tvg-logo="http://" group-title="ottera", Channel 4612
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
+
+#EXTINF:-1 tvg-id="ottera-4627" tvg-logo="http://" group-title="ottera", Channel 4627
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4627
+
+#EXTINF:-1 tvg-id="ottera-4630" tvg-logo="http://" group-title="ottera", Channel 4630
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4630
+
+#EXTINF:-1 tvg-id="ottera-4631" tvg-logo="http://" group-title="ottera", Channel 4631
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4631
+
+#EXTINF:-1 tvg-id="ottera-4632" tvg-logo="http://" group-title="ottera", Channel 4632
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4632
+
+#EXTINF:-1 tvg-id="ottera-4636" tvg-logo="http://" group-title="ottera", Channel 4636
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4636
+
+#EXTINF:-1 tvg-id="ottera-4637" tvg-logo="http://" group-title="ottera", Channel 4637
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4637
+
+#EXTINF:-1 tvg-id="ottera-4638" tvg-logo="http://" group-title="ottera", Channel 4638
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4638
+
+#EXTINF:-1 tvg-id="ottera-4640" tvg-logo="http://" group-title="ottera", Channel 4640
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4640
+
+#EXTINF:-1 tvg-id="ottera-4641" tvg-logo="http://" group-title="ottera", Channel 4641
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4641
+
+#EXTINF:-1 tvg-id="ottera-4642" tvg-logo="http://" group-title="ottera", Channel 4642
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4642
+
+#EXTINF:-1 tvg-id="ottera-4647" tvg-logo="http://" group-title="ottera", Channel 4647
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+
+#EXTINF:-1 tvg-id="ottera-4648" tvg-logo="http://" group-title="ottera", Channel 4648
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4648
+
+#EXTINF:-1 tvg-id="ottera-4649" tvg-logo="http://" group-title="ottera", Channel 4649
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4649
+
+#EXTINF:-1 tvg-id="ottera-4654" tvg-logo="http://" group-title="ottera", Channel 4654
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4654
+
+#EXTINF:-1 tvg-id="ottera-4656" tvg-logo="http://" group-title="ottera", Channel 4656
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4656
+
+#EXTINF:-1 tvg-id="ottera-4659" tvg-logo="http://" group-title="ottera", Channel 4659
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4659
+
+#EXTINF:-1 tvg-id="ottera-4662" tvg-logo="http://" group-title="ottera", Channel 4662
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4662
+
+#EXTINF:-1 tvg-id="ottera-4663" tvg-logo="http://" group-title="ottera", Channel 4663
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4663
+
+#EXTINF:-1 tvg-id="ottera-4680" tvg-logo="http://" group-title="ottera", Channel 4680
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4680
+
+#EXTINF:-1 tvg-id="ottera-4737" tvg-logo="http://" group-title="ottera", Channel 4737
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4737
+
+#EXTINF:-1 tvg-id="ottera-4763" tvg-logo="http://" group-title="ottera", Channel 4763
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4763
+
+#EXTINF:-1 tvg-id="ottera-4765" tvg-logo="http://" group-title="ottera", Channel 4765
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4765
+
+#EXTINF:-1 tvg-id="ottera-4769" tvg-logo="http://" group-title="ottera", Channel 4769
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4769
+
+#EXTINF:-1 tvg-id="ottera-4770" tvg-logo="http://" group-title="ottera", Channel 4770
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4770
+
+#EXTINF:-1 tvg-id="ottera-4771" tvg-logo="http://" group-title="ottera", Channel 4771
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4771
+
+#EXTINF:-1 tvg-id="ottera-4772" tvg-logo="http://" group-title="ottera", Channel 4772
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4772
+
+#EXTINF:-1 tvg-id="ottera-4773" tvg-logo="http://" group-title="ottera", Channel 4773
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4773
+
+#EXTINF:-1 tvg-id="ottera-4774" tvg-logo="http://" group-title="ottera", Channel 4774
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4774
+
+#EXTINF:-1 tvg-id="ottera-4775" tvg-logo="http://" group-title="ottera", Channel 4775
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4775
+
+#EXTINF:-1 tvg-id="ottera-4778" tvg-logo="http://" group-title="ottera", Channel 4778
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4778
+
+#EXTINF:-1 tvg-id="ottera-4780" tvg-logo="http://" group-title="ottera", Channel 4780
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4780
+
+#EXTINF:-1 tvg-id="ottera-4782" tvg-logo="http://" group-title="ottera", Channel 4782
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4782
+
+#EXTINF:-1 tvg-id="ottera-4783" tvg-logo="http://" group-title="ottera", Channel 4783
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4783
+
+#EXTINF:-1 tvg-id="ottera-4784" tvg-logo="http://" group-title="ottera", Channel 4784
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4784
+
+#EXTINF:-1 tvg-id="ottera-4786" tvg-logo="http://" group-title="ottera", Channel 4786
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4786
+
+#EXTINF:-1 tvg-id="ottera-4792" tvg-logo="http://" group-title="ottera", Channel 4792
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4792
+
+#EXTINF:-1 tvg-id="ottera-4793" tvg-logo="http://" group-title="ottera", Channel 4793
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4793
+
+#EXTINF:-1 tvg-id="ottera-4794" tvg-logo="http://" group-title="ottera", Channel 4794
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4794
+
+#EXTINF:-1 tvg-id="ottera-4795" tvg-logo="http://" group-title="ottera", Channel 4795
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4795
+
+#EXTINF:-1 tvg-id="ottera-4796" tvg-logo="http://" group-title="ottera", Channel 4796
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4796
+
+#EXTINF:-1 tvg-id="ottera-4797" tvg-logo="http://" group-title="ottera", Channel 4797
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4797
+
+#EXTINF:-1 tvg-id="ottera-4798" tvg-logo="http://" group-title="ottera", Channel 4798
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4798
+
+#EXTINF:-1 tvg-id="ottera-4800" tvg-logo="http://" group-title="ottera", Channel 4800
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4800
+
+#EXTINF:-1 tvg-id="ottera-4801" tvg-logo="http://" group-title="ottera", Channel 4801
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4801
+
+#EXTINF:-1 tvg-id="ottera-4810" tvg-logo="http://" group-title="ottera", Channel 4810
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4810
+
+#EXTINF:-1 tvg-id="ottera-4814" tvg-logo="http://" group-title="ottera", Channel 4814
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4814
+
+#EXTINF:-1 tvg-id="ottera-4815" tvg-logo="http://" group-title="ottera", Channel 4815
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4815
+
+#EXTINF:-1 tvg-id="ottera-4816" tvg-logo="http://" group-title="ottera", Channel 4816
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4816
+
+#EXTINF:-1 tvg-id="ottera-4817" tvg-logo="http://" group-title="ottera", Channel 4817
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4817
+
+#EXTINF:-1 tvg-id="ottera-4818" tvg-logo="http://" group-title="ottera", Channel 4818
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4818
+
+#EXTINF:-1 tvg-id="ottera-4820" tvg-logo="http://" group-title="ottera", Channel 4820
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4820
+
+#EXTINF:-1 tvg-id="ottera-4821" tvg-logo="http://" group-title="ottera", Channel 4821
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4821
+
+#EXTINF:-1 tvg-id="ottera-4824" tvg-logo="http://" group-title="ottera", Channel 4824
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4824
+
+#EXTINF:-1 tvg-id="ottera-4826" tvg-logo="http://" group-title="ottera", Channel 4826
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+
+#EXTINF:-1 tvg-id="ottera-4827" tvg-logo="http://" group-title="ottera", Channel 4827
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#EXTINF:-1 tvg-id="ottera-4828" tvg-logo="http://" group-title="ottera", Channel 4828
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+
+#EXTINF:-1 tvg-id="ottera-4830" tvg-logo="http://" group-title="ottera", Channel 4830
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830
+
+#EXTINF:-1 tvg-id="ottera-4832" tvg-logo="http://" group-title="ottera", Channel 4832
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4832
+
+#EXTINF:-1 tvg-id="ottera-4833" tvg-logo="http://" group-title="ottera", Channel 4833
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+
+#EXTINF:-1 tvg-id="ottera-4834" tvg-logo="http://" group-title="ottera", Channel 4834
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4834
+
+#EXTINF:-1 tvg-id="ottera-4835" tvg-logo="http://" group-title="ottera", Channel 4835
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4835
+
+#EXTINF:-1 tvg-id="ottera-4837" tvg-logo="http://" group-title="ottera", Channel 4837
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4837
+
+#EXTINF:-1 tvg-id="ottera-4841" tvg-logo="http://" group-title="ottera", Channel 4841
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4841
+
+#EXTINF:-1 tvg-id="ottera-4842" tvg-logo="http://" group-title="ottera", Channel 4842
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4842
+
+#EXTINF:-1 tvg-id="ottera-4843" tvg-logo="http://" group-title="ottera", Channel 4843
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4843
+
+#EXTINF:-1 tvg-id="ottera-4844" tvg-logo="http://" group-title="ottera", Channel 4844
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4844
+
+#EXTINF:-1 tvg-id="ottera-4845" tvg-logo="http://" group-title="ottera", Channel 4845
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4845
+
+#EXTINF:-1 tvg-id="ottera-4850" tvg-logo="http://" group-title="ottera", Channel 4850
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4850
+
+#EXTINF:-1 tvg-id="ottera-4851" tvg-logo="http://" group-title="ottera", Channel 4851
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4851
+
+#EXTINF:-1 tvg-id="ottera-4852" tvg-logo="http://" group-title="ottera", Channel 4852
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4852
+
+#EXTINF:-1 tvg-id="ottera-4854" tvg-logo="http://" group-title="ottera", Channel 4854
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4854
+
+#EXTINF:-1 tvg-id="ottera-4855" tvg-logo="http://" group-title="ottera", Channel 4855
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4855
+
+#EXTINF:-1 tvg-id="ottera-4857" tvg-logo="http://" group-title="ottera", Channel 4857
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4857
+
+#EXTINF:-1 tvg-id="ottera-4858" tvg-logo="http://" group-title="ottera", Channel 4858
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4858
+
+#EXTINF:-1 tvg-id="ottera-4860" tvg-logo="http://" group-title="ottera", Channel 4860
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4860
+
+#EXTINF:-1 tvg-id="ottera-4864" tvg-logo="http://" group-title="ottera", Channel 4864
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-id="ottera-4865" tvg-logo="http://" group-title="ottera", Channel 4865
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-id="ottera-4866" tvg-logo="http://" group-title="ottera", Channel 4866
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-id="ottera-4867" tvg-logo="http://" group-title="ottera", Channel 4867
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4867
+
+#EXTINF:-1 tvg-id="ottera-4868" tvg-logo="http://" group-title="ottera", Channel 4868
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4868
+
+#EXTINF:-1 tvg-id="ottera-4869" tvg-logo="http://" group-title="ottera", Channel 4869
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4869
+
+#EXTINF:-1 tvg-id="ottera-4870" tvg-logo="http://" group-title="ottera", Channel 4870
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4870
+
+#EXTINF:-1 tvg-id="ottera-4871" tvg-logo="http://" group-title="ottera", Channel 4871
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871
+
+#EXTINF:-1 tvg-id="ottera-4873" tvg-logo="http://" group-title="ottera", Channel 4873
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4873
+
+#EXTINF:-1 tvg-id="ottera-4876" tvg-logo="http://" group-title="ottera", Channel 4876
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4876
+
+#EXTINF:-1 tvg-id="ottera-4877" tvg-logo="http://" group-title="ottera", Channel 4877
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4877
+
+#EXTINF:-1 tvg-id="ottera-4910" tvg-logo="http://" group-title="ottera", Channel 4910
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4910
+
+#EXTINF:-1 tvg-id="ottera-4911" tvg-logo="http://" group-title="ottera", Channel 4911
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4911
+
+#EXTINF:-1 tvg-id="ottera-4912" tvg-logo="http://" group-title="ottera", Channel 4912
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4912
+
+#EXTINF:-1 tvg-id="ottera-4915" tvg-logo="http://" group-title="ottera", Channel 4915
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4915
+
+#EXTINF:-1 tvg-id="ottera-4921" tvg-logo="http://" group-title="ottera", Channel 4921
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4921
+
+#EXTINF:-1 tvg-id="ottera-4922" tvg-logo="http://" group-title="ottera", Channel 4922
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4922
 
 
