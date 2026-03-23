@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
 
 #EXTINF:-1, group-title="TS Channel" tvg-name="TS Channel 709" tvg-logo="",Channel 709
 https://mysouq1.com:443/live/76631957/10205687/709.ts
