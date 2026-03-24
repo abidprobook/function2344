@@ -3,16 +3,16 @@
 
 # 270p Quality
 #EXT-X-STREAM-INF:BANDWIDTH=546239,RESOLUTION=480x270,FRAME-RATE=30,NAME="270p"
-https://video.twimg.com/amplify_video/2035706185697882112/vid/avc1/480x270/qCrSNqap_FkDJGji.mp4
+https://video.twimg.com/amplify_video/2035706185697882112/pl/avc1/480x270/FLMF8F4tv0HOl3sQ.m3u8
 
 # 360p Quality
 #EXT-X-STREAM-INF:BANDWIDTH=1209862,RESOLUTION=640x360,FRAME-RATE=30,NAME="360p"
-https://video.twimg.com/amplify_video/2035706185697882112/vid/avc1/640x360/Dv7gC3igsfZomQKf.mp4
+https://video.twimg.com/amplify_video/2035706185697882112/pl/avc1/640x360/24OAjZdDDYu9eMTu.m3u8
 
 # 720p Quality
 #EXT-X-STREAM-INF:BANDWIDTH=4370178,RESOLUTION=1280x720,FRAME-RATE=60,NAME="720p"
-https://video.twimg.com/amplify_video/2035706185697882112/vid/avc1/1280x720/KCakqfdWo1jnG7__.mp4
+https://video.twimg.com/amplify_video/2035706185697882112/pl/avc1/1280x720/2B898fn-T15kBXk5.m3u8
 
 # 1080p Quality
 #EXT-X-STREAM-INF:BANDWIDTH=7171631,RESOLUTION=1920x1080,FRAME-RATE=60,NAME="1080p"
-https://video.twimg.com/amplify_video/2035706185697882112/vid/avc1/1920x1080/iZ_s4NlpEZQYHE-a.mp4
+https://video.twimg.com/amplify_video/2035706185697882112/pl/avc1/1920x1080/7JNhXCbelc23opJS.m3u8
