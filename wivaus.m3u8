@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3185600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1774220207~acl=/*~data=hdntl~hmac=906d77b2930e0a7ba0381ddc032563c24b88ddfe3e1d2cb60dce3bba558a936f/level_0.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1774720084~acl=/*~data=hdntl~hmac=d413515a0aa783b38dec60abf35c42ac536f7d1519073bfdd37f38ad178020a5/level_0.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2195600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1774220207~acl=/*~data=hdntl~hmac=906d77b2930e0a7ba0381ddc032563c24b88ddfe3e1d2cb60dce3bba558a936f/level_1.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1774720084~acl=/*~data=hdntl~hmac=d413515a0aa783b38dec60abf35c42ac536f7d1519073bfdd37f38ad178020a5/level_1.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1774220207~acl=/*~data=hdntl~hmac=906d77b2930e0a7ba0381ddc032563c24b88ddfe3e1d2cb60dce3bba558a936f/level_2.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1774720084~acl=/*~data=hdntl~hmac=d413515a0aa783b38dec60abf35c42ac536f7d1519073bfdd37f38ad178020a5/level_2.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=798600,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1774220207~acl=/*~data=hdntl~hmac=906d77b2930e0a7ba0381ddc032563c24b88ddfe3e1d2cb60dce3bba558a936f/level_3.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1774720084~acl=/*~data=hdntl~hmac=d413515a0aa783b38dec60abf35c42ac536f7d1519073bfdd37f38ad178020a5/level_3.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=380600,RESOLUTION=480x270,CODECS="avc1.640015,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1774220207~acl=/*~data=hdntl~hmac=906d77b2930e0a7ba0381ddc032563c24b88ddfe3e1d2cb60dce3bba558a936f/level_4.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1774720084~acl=/*~data=hdntl~hmac=d413515a0aa783b38dec60abf35c42ac536f7d1519073bfdd37f38ad178020a5/level_4.m3u8
