@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3185600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775058539~acl=/*~data=hdntl~hmac=b4549161f15e9046cd211c0cad4a18af8c6e245f9255f2097cd5e6b14c51c7c4/level_0.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775138471~acl=/*~data=hdntl~hmac=f55910bfab7a2f053af79431527fd353752bf690aff758eaf4772b153dfdfa27/level_0.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2195600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775058539~acl=/*~data=hdntl~hmac=b4549161f15e9046cd211c0cad4a18af8c6e245f9255f2097cd5e6b14c51c7c4/level_1.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775138471~acl=/*~data=hdntl~hmac=f55910bfab7a2f053af79431527fd353752bf690aff758eaf4772b153dfdfa27/level_1.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775058539~acl=/*~data=hdntl~hmac=b4549161f15e9046cd211c0cad4a18af8c6e245f9255f2097cd5e6b14c51c7c4/level_2.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775138471~acl=/*~data=hdntl~hmac=f55910bfab7a2f053af79431527fd353752bf690aff758eaf4772b153dfdfa27/level_2.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=798600,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775058539~acl=/*~data=hdntl~hmac=b4549161f15e9046cd211c0cad4a18af8c6e245f9255f2097cd5e6b14c51c7c4/level_3.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775138471~acl=/*~data=hdntl~hmac=f55910bfab7a2f053af79431527fd353752bf690aff758eaf4772b153dfdfa27/level_3.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=380600,RESOLUTION=480x270,CODECS="avc1.640015,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775058539~acl=/*~data=hdntl~hmac=b4549161f15e9046cd211c0cad4a18af8c6e245f9255f2097cd5e6b14c51c7c4/level_4.m3u8
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1775138471~acl=/*~data=hdntl~hmac=f55910bfab7a2f053af79431527fd353752bf690aff758eaf4772b153dfdfa27/level_4.m3u8
