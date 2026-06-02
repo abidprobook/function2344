@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3185600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1779990697~acl=/*~data=hdntl~hmac=68b5cbfedb81ab32ea61baf0c4840900f32e3d8205eef3e83cc589442ad8b22d/level_0.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780484793~acl=/*~data=hdntl~hmac=a649964f3d9f0cf0fe2f371b2019261a1adfedd806cd5edba3111c3f87aea89b/level_0.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2195600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1779990697~acl=/*~data=hdntl~hmac=68b5cbfedb81ab32ea61baf0c4840900f32e3d8205eef3e83cc589442ad8b22d/level_1.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780484793~acl=/*~data=hdntl~hmac=a649964f3d9f0cf0fe2f371b2019261a1adfedd806cd5edba3111c3f87aea89b/level_1.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1779990697~acl=/*~data=hdntl~hmac=68b5cbfedb81ab32ea61baf0c4840900f32e3d8205eef3e83cc589442ad8b22d/level_2.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780484793~acl=/*~data=hdntl~hmac=a649964f3d9f0cf0fe2f371b2019261a1adfedd806cd5edba3111c3f87aea89b/level_2.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=798600,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1779990697~acl=/*~data=hdntl~hmac=68b5cbfedb81ab32ea61baf0c4840900f32e3d8205eef3e83cc589442ad8b22d/level_3.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780484793~acl=/*~data=hdntl~hmac=a649964f3d9f0cf0fe2f371b2019261a1adfedd806cd5edba3111c3f87aea89b/level_3.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=380600,RESOLUTION=480x270,CODECS="avc1.640015,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1779990697~acl=/*~data=hdntl~hmac=68b5cbfedb81ab32ea61baf0c4840900f32e3d8205eef3e83cc589442ad8b22d/level_4.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1780484793~acl=/*~data=hdntl~hmac=a649964f3d9f0cf0fe2f371b2019261a1adfedd806cd5edba3111c3f87aea89b/level_4.m3u8
