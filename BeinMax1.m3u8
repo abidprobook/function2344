@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:6
+EXT-X-VERSION:6
 
 #EXT-X-STREAM-INF:BANDWIDTH=1861200,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",NAME="وضوح متوسط (HD)"
 https://xtream.lazyspace.online/uplink/play/744529/lmND4qC9ustQ/live.m3u8
