@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:6
 
 #EXT-X-STREAM-INF:BANDWIDTH=99000000,RESOLUTION=2560x1440,CODECS="avc1.4d4033,mp4a.40.2"
 https://xtream.lazyspace.online/uplink/play/744529/lmND4qC9ustQ/live.m3u8
